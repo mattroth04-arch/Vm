@@ -1,0 +1,45 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+National Institutes of Health,https://www.nih.gov/nih-clinical-research-trials-you,nih.gov,Clinical Registry,Multiple (cancer ophthalmology),high,Government registry aggregator listing patient and clinical registries
+Cystic Fibrosis Foundation,https://www.cff.org/medical-professionals/patient-registry,cff.org,Patient Registry,Cystic Fibrosis,high,CF Foundation Patient Registry collects longitudinal health status data
+ClinicalTrials.gov,https://clinicaltrials.gov,clinicaltrials.gov,Clinical Registry,General,high,Federal clinical trials and observational study registry
+World Health Organization,https://www.who.int/tools-and-toolkits,who.int,Clinical Registry,General,high,WHO clinical registry platform for health facilities
+Food Allergy Research & Education,https://www.foodallergy.org/elevating-research/fare-patient-registry,foodallergy.org,Patient Registry,Food Allergies,high,FARE Patient Registry for food allergy research
+Virginia Health Information,https://www.vhi.org,vhi.org,Health Information Exchange,General/Virginia,high,Connects collects and reports Virginia healthcare data and statewide exchange programs
+Office of the National Coordinator for Health IT,https://www.healthit.gov/health-it-basics,healthit.gov,Health Information Exchange,General,high,Federal office overseeing health IT and nationwide health information exchange policy
+Castor,https://www.castoredc.com,castoredc.com,Evidence Generation,eClinical Data Management,high,RWE platform and patient registry for observational study methods
+WeGuide,https://www.weguide.health,weguide.health,Evidence Generation,Patient Registry Platform,high,Real-world evidence platform and patient registry management software
+RTI Health Solutions,https://www.rtihs.org/Real-World-Evidence,rtihs.org,Real-World Data,Database and Registry Research Services,high,Database and registry research services for life sciences
+IQVIA,https://www.iqvia.com/solutions/real-world-evidence,iqvia.com,Real-World Data,Real World Evidence / HEOR,high,RWE solutions supporting health economics and outcomes research
+Global Heat Health Information Network,https://heathealth.info,heathealth.info,Health Data Network,Heat Health,medium,International network for heat-health data awareness and capacity building
+Mahalo Health,https://www.mahalo.health,mahalo.health,Patient Registry,Patient Registry Platforms,high,Patient registry and clinical registry deployment platform
+UC San Diego Health,https://health.ucsd.edu/Medical-Records,health.ucsd.edu,Health Information Exchange,General,medium,Academic health system participating in health information exchange for provider access
+Australian Government Department of Health,https://www.health.gov.au/our-work/national-clinical-quality-registry-program,health.gov.au,Clinical Registry,Clinical Quality,high,National Clinical Quality Registry Program funding clinical quality registries
+Pro Pharma Research Organization,https://propharmaresearch.com,propharmaresearch.com,Real-World Data,Real-World Evidence Registries,high,Real-world evidence registry services for pharmaceutical research
+H1,https://h1.co,h1.co,Real-World Data,Healthcare Data Analytics,medium,Healthcare data and real-world data evaluation platform for life sciences
+Datavant,https://www.datavant.com/real-world-data,datavant.com,Real-World Data,Real-World Data / Data Connectivity,high,Real-world data connectivity platform for clinical research and drug development
+Government of Prince Edward Island,https://services.princeedwardisland.ca/service/pei-provincial-patient-registry,princeedwardisland.ca,Patient Registry,General/Provincial,high,Provincial patient registry for Prince Edward Island residents
+Veradigm,https://veradigm.com/Life-Sciences/Veradigm,veradigm.com,EHR Data,EHR/Clinical Data,high,Real-world evidence services leveraging EHR-sourced clinical registry populations
+Massachusetts Center for Health Information and Analysis,https://www.chiamass.gov,chiamass.gov,Health Data Network,State Health Data,high,Independent state agency analyzing Massachusetts health system quality affordability and utilization
+Scalence,https://www.scalence.com,scalence.com,Real-World Data,Clinical Data Platforms,high,Clinical data platforms integrating trial registry EHR and claims data for RWE
+PSC Partners Patient Registry,https://www.pscpartnersregistry.org,pscpartnersregistry.org,Patient Registry,Primary Sclerosing Cholangitis,high,Patient registry supporting PSC research worldwide
+IntuitionLabs,https://intuitionlabs.ai,intuitionlabs.ai,Health Data Network,EMR/Claims Integration,high,RWE platform architecture integrating EMR and claims across OMOP CDM networks
+DHIS2,https://dhis2.org,dhis2.org,Health Data Network,Health Information Management System,high,Global public-good health information management and analytics platform
+Canadian Institute for Health Information,https://www.cihi.ca,cihi.ca,Health Data Network,Canadian Health Systems Data,high,National source for Canadian health systems and population health data
+Surescripts,https://surescripts.com/interconnect,surescripts.com,Health Information Exchange,Health Information Network,high,National health information network supporting TEFCA-scale patient information exchange
+PFIC Network,https://www.pfic.org/Get-Involved,pfic.org,Patient Registry,Progressive Familial Intrahepatic Cholestasis,high,PFIC patient registry for disease experience data collection
+Foundation for Sarcoidosis Research,https://www.stopsarcoidosis.org/patient-registry,stopsarcoidosis.org,Patient Registry,Sarcoidosis,high,FSR patient registry for sarcoidosis research
+European Cystic Fibrosis Society,https://pr.ecfs.eu,ecfs.eu,Patient Registry,Cystic Fibrosis,high,ECFS patient registry providing population-level cystic fibrosis data
+Camden Coalition,https://camdenhealth.org/work/health-information-exchange,camdenhealth.org,Health Information Exchange,General,high,Regional health information exchange providing real-time data for care coordination
+Aplastic Anemia and MDS International Foundation,https://www.aamds.org/sponsored-research/global-pnh-patient-registry,aamds.org,Patient Registry,Aplastic Anemia / MDS / PNH,high,Global PNH patient registry sponsored with NORD
+Blood Cancer United,https://bloodcancerunited.org/resources/patients/registry,bloodcancerunited.org,Patient Registry,Blood Cancer,high,National patient registry for blood cancer research
+New Jersey Health Information Network,https://www.nj.gov/health/njhin,nj.gov,Health Information Exchange,State Health Information Exchange,high,Statewide system for secure electronic patient health information exchange
+Clinical Registry Investigating Bardet-Biedl Syndrome,https://www.bbs-registry.org,bbs-registry.org,Clinical Registry,Bardet-Biedl Syndrome,high,CRIBBS clinical registry for Bardet-Biedl syndrome community
+Massachusetts Health Information Hiway,https://www.masshiway.net,masshiway.net,Health Information Exchange,State Health Information Exchange,high,Massachusetts statewide health information exchange HISP
+Kentucky Health Information Exchange,https://khie.ky.gov/Pages,khie.ky.gov,Health Information Exchange,State Health Information Exchange,high,Kentucky statewide health information exchange
+Wisconsin Health Information Organization,https://whio.org,whio.org,Health Data Network,State Health Data,high,State health data organization equipping Wisconsin healthcare leaders with objective data
+Georgia Health Information Network,https://www.gahin.org,gahin.org,Health Information Exchange,State Health Information Exchange,high,Georgia statewide electronic health information exchange
+Texas Statewide Health Information Exchange,https://www.hhs.texas.gov/improving-services-texans,hhs.texas.gov,Health Information Exchange,State Health Information Exchange,high,Texas statewide health information exchange for provider data sharing
+Wisconsin Statewide Health Information Network,https://wishin.org,wishin.org,Health Information Exchange,State Health Information Exchange,high,Wisconsin state-designated statewide vendor-agnostic HIE entity
+Colorado Social Health Information Exchange,https://ehealth.colorado.gov/CSHIE,ehealth.colorado.gov,Health Information Exchange,State Health Information Exchange,high,Colorado social health information exchange supporting whole-person care
+Hawaii Health Information Exchange,https://hawaiihie.org,hawaiihie.org,Health Information Exchange,State Health Information Exchange,high,Hawaii state HIE enabling provider and hospital data exchange
+Providence Health Information Exchange,https://provshare.org,provshare.org,Health Information Exchange,Regional Health Information Exchange,high,Providence-affiliated regional health information exchange for care coordination
