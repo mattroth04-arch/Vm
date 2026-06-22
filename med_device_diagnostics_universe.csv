@@ -1,0 +1,51 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+Quest Diagnostics,https://www.questdiagnostics.com,questdiagnostics.com,Diagnostics,Clinical laboratory testing and diagnostic information services,High,Major national clinical laboratory
+Foundation Medicine,https://www.foundationmedicine.com,foundationmedicine.com,Molecular Diagnostics,Molecular profiling and companion diagnostics for cancer treatment,High,FDA-cleared companion diagnostics
+Becton Dickinson (BD),https://www.bd.com,bd.com,Medical Device,Medical technology company for medication management and diagnostics,High,Major global medical technology company
+Chembio Diagnostics,https://chembio.com,chembio.com,Diagnostics,Point-of-care infectious disease diagnostics,High,CLIA-waived rapid tests
+Co-Dx,https://co-dx.com,co-dx.com,Molecular Diagnostics,PCR platform for rapid real-time diagnostic results,High,Point-of-care molecular diagnostics
+Leica Biosystems,https://www.leicabiosystems.com,leicabiosystems.com,Digital Pathology,Pathology and companion diagnostic solutions for pharmaceutical companies,High,Cancer diagnostics and digital pathology
+Roche Diagnostics,https://www.roche.com,roche.com,Diagnostics,Diagnostic tests instruments and digital solutions for healthcare,High,Global leader in diagnostics
+Thermo Fisher Scientific,https://www.thermofisher.com,thermofisher.com,Diagnostics,Diagnostic testing instruments and laboratory solutions,High,Major diagnostic and laboratory equipment provider
+DMS Imaging,https://www.dms-imaging.com,dms-imaging.com,Imaging Diagnostics,Medical imaging systems for digital radiology and bone densitometry,High,Specialized in diagnostic imaging
+Almac Diagnostic Services,https://www.almacgroup.com,almacgroup.com,Diagnostics,Biomarker-driven clinical trials and diagnostic services,High,Specializes in precision medicine diagnostics
+Cepheid,https://www.cepheid.com,cepheid.com,Molecular Diagnostics,Molecular diagnostic testing with GeneXpert systems,High,Automated molecular diagnostics platform
+EKF Diagnostics,https://www.ekfdiagnostics.com,ekfdiagnostics.com,Diagnostics,Point-of-care diagnostics and biotechnology solutions,High,Global POC diagnostics leader
+Grifols Diagnostic Solutions,https://www.diagnostic.grifols.com,diagnostic.grifols.com,Diagnostics,Transfusion medicine clinical diagnostics and testing services,High,Blood banking and immunohematology diagnostics
+Twist Bioscience,https://www.twistbioscience.com,twistbioscience.com,Genomics Testing,DNA synthesis and NGS-based diagnostic panels,High,Synthetic biology for genomic testing
+Digital Diagnostics,https://www.digitaldiagnostics.com,digitaldiagnostics.com,Imaging Diagnostics,AI-powered autonomous diagnostic solutions for diabetic eye disease,High,FDA-authorized AI diagnostics
+Foresight Diagnostics,https://foresight-dx.com,foresight-dx.com,Molecular Diagnostics,Ultra-sensitive cancer diagnostic tests using precision genomics,High,Liquid biopsy for cancer monitoring
+Diagnostic BioSystems (DBS),https://dbiosys.com,dbiosys.com,Diagnostics,Advanced tissue diagnostics for precision healthcare,High,IHC and molecular pathology
+Illumina,https://www.illumina.com,illumina.com,Genomics Testing,Sequencing-based molecular diagnostic tests and IVD products,High,Leader in genomic sequencing platforms
+C2N Diagnostics,https://c2n.com,c2n.com,Diagnostics,Blood tests for Alzheimer's disease diagnostics,High,Specialty diagnostics for neurodegenerative diseases
+CellCarta,https://cellcarta.com,cellcarta.com,Diagnostics,Companion diagnostic and CDx services,Medium,Biomarker and companion diagnostics CRO
+Steinberg Diagnostic Medical Imaging,https://www.stbmv.com,stbmv.com,Imaging Diagnostics,Diagnostic medical imaging centers,Medium,Regional imaging centers in Las Vegas
+Antech Diagnostics,https://www.antechdiagnostics.com,antechdiagnostics.com,Laboratory Medicine,Veterinary diagnostics lab testing imaging and pathology services,High,Veterinary-focused diagnostics expertise
+Medical Diagnostic Laboratories,https://www.mdlab.com,mdlab.com,Laboratory Medicine,PCR-based molecular diagnostic testing,High,Reference laboratory for molecular diagnostics
+bioMérieux,https://www.biomerieux.com,biomerieux.com,Diagnostics,In vitro diagnostic solutions and Life Cycle Assessments,High,Global leader in microbiology diagnostics
+Alexion,https://alexion.com,alexion.com,Other,Rare disease diagnostics and collaborative diagnostic programs,Medium,Pharma with diagnostic collaboration
+Wisconsin Diagnostic Laboratories,https://www.wisconsindiagnostic.com,wisconsindiagnostic.com,Laboratory Medicine,Complete laboratory testing services and specimen transportation,High,Regional clinical laboratory
+DiaSys Diagnostic Systems GmbH,https://www.diasys-diagnostics.com,diasys-diagnostics.com,Diagnostics,Development and manufacturing of diagnostic systems,High,European diagnostics manufacturer
+QuidelOrtho,https://www.quidelortho.com,quidelortho.com,Molecular Diagnostics,Molecular diagnostic testing portfolio for better patient outcomes,High,Combined Quidel and Ortho Clinical Diagnostics
+Diasorin,https://int.diasorin.com,diasorin.com,Diagnostics,Immunodiagnostics and molecular diagnostics solutions,High,World leader in immunodiagnostics market
+Fujifilm Healthcare,https://healthcaresolutions.fujifilm.com,fujifilm.com,Imaging Diagnostics,Medical imaging solutions from DR detectors to mobile DR solutions,High,Diagnostic imaging portfolio
+Bracco,https://www.bracco.com,bracco.com,Imaging Diagnostics,Contrast imaging and diagnostic imaging solutions for healthcare,High,Leading provider of diagnostic imaging agents
+Agilent Technologies,https://www.agilent.com,agilent.com,Diagnostics,Pathology and clinical genomics tests,High,Major diagnostics solutions provider
+Bayer,https://www.bayer.com,bayer.com,Imaging Diagnostics,Diagnostic imaging division,High,Major pharmaceutical company with imaging diagnostics
+TridentCare,https://www.tridentcare.com,tridentcare.com,Laboratory Medicine,Mobile diagnostic services and laboratory,Medium,Mobile health diagnostics provider
+Labarium Diagnostic Systems,https://www.labarium.com,labarium.com,Laboratory Medicine,Next-generation clinical laboratory with AI-powered diagnostics,High,AI-powered diagnostic insights across 20+ states
+Abbott Core Laboratory,https://corelaboratory.abbott.com,abbott.com,Diagnostics,Laboratory diagnostic solutions,High,Abbott laboratory diagnostics division
+SeraCare Clinical Diagnostics (LGC Group),https://www.lgcgroup.com,lgcgroup.com,Diagnostics,Clinical diagnostics testing,High,Part of LGC Group diagnostic testing services
+Athena Diagnostics,https://www.athenadiagnostics.com,athenadiagnostics.com,Diagnostics,Neurological disease diagnostics,High,Leader in diagnostic testing for neurological diseases and muscular dystrophy
+Diamond Diagnostics,https://www.diamonddiagnostics.com,diamonddiagnostics.com,Diagnostics,Lab equipment manufacturer including electrolyte analyzers,High,Leading manufacturer of lab equipment
+Genova Diagnostics,https://www.gdx.net,gdx.net,Diagnostics,Advanced diagnostic testing for functional medicine,High,Gut health nutrition hormones immune function testing
+Biodesix,https://www.biodesix.com,biodesix.com,Molecular Diagnostics,Personalized diagnostic testing and development services,High,Personalized diagnostics that are timely and accessible
+Sigma-Aldrich,https://www.sigmaaldrich.com,sigmaaldrich.com,Other,Life sciences and diagnostics supplies,High,Major supplier of research and diagnostic products (Merck subsidiary)
+Newport Diagnostic Center,https://www.newportdiagnosticcenter.com,newportdiagnosticcenter.com,Imaging Diagnostics,Dedicated medical imaging facility,Medium,Regional medical imaging center
+Henry Schein,https://www.henryschein.com,henryschein.com,Other,Medical diagnostic equipment distribution,High,Wide range of medical diagnostic equipment supplier
+DIA Invision Health,https://www.diasodey.com,diasodey.com,Imaging Diagnostics,Full-service outpatient radiology and imaging center,Medium,Outpatient radiology and imaging center
+Simply Diagnostic,https://www.simplydiagnostic.com,simplydiagnostic.com,Diagnostics,At-home testing kits for SIBO H. pylori hormones blood sugar,Medium,Direct-to-consumer diagnostic test kits
+Alliance Medical,https://www.alliancemedical.com,alliancemedical.com,Imaging Diagnostics,Diagnostic imaging and radiopharmacy services worldwide,High,Expert diagnostic imaging 30+ years experience
+Diagnostic Laboratory Services Inc.,https://www.dlslab.com,dlslab.com,Laboratory Medicine,Medical laboratory testing in Hawaii Guam and Saipan,Medium,Locally owned and operated medical lab
+QIAGEN,https://www.qiagen.com,qiagen.com,Molecular Diagnostics,Sample preparation and molecular diagnostics,High,Leader in sample preparation and molecular diagnostics
+DNA Diagnostic,https://www.dna-diagnostic.com,dna-diagnostic.com,Molecular Diagnostics,Genetic and molecular diagnostic testing IVD test kits,Medium,IVD test kits for chromosome translocations and PCR
