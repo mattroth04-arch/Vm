@@ -3,8 +3,8 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 150 / 240
-- **Matching remote jobs found:** 44
+- **Employers processed:** 240 / 240
+- **Matching remote jobs found:** 95
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
 - **Search terms (one at a time, no Boolean OR):** research, epidemiology, biostatistics, HEOR, outcomes research, public health, data scientist, medical writer
@@ -164,3 +164,93 @@
 | 148 | Beam Therapeutics | n/a | no | 0 | https://beamtx.com/careers/ | Not searched. |
 | 149 | Becton Dickinson (BD) | n/a | no | 0 | https://www.bd.com | Not searched. |
 | 150 | Bedrock Healthcare Communications | n/a | no | 0 | https://bedrock-health.com | Not searched. |
+| 151 | Begun Center CWRU | no | yes | 0 | https://case.edu/socialwork/begun | No current openings. |
+| 152 | Benaroya Research Institute | yes | yes | 0 | https://www.benaroyaresearch.org | Seattle hybrid/onsite only. |
+| 153 | Beth Israel Deaconess Medical Center | yes | yes | 0 | https://www.bidmc.org | 231+ research jobs; onsite Boston. |
+| 154 | Beth Israel Lahey Health | yes | yes | 2 | https://jobs.bilh.org | 2 remote-eligible analyst/biostat roles. |
+| 155 | Better Medicare Alliance | no | yes | 0 | https://bettermedicarealliance.org | No current openings. |
+| 156 | BetterHelp | yes | yes | 3 | https://www.betterhelp.com/careers/ | 3 remote data scientist roles. |
+| 157 | BioBridges | n/a | yes | 0 | https://www.biobridges.com/careers | Consulting/staffing model. |
+| 158 | BioCryst Pharmaceuticals | yes | yes | 2 | https://www.biocryst.com/careers/ | 2 remote HEOR/analytics roles. |
+| 159 | Biodesix | yes | yes | 0 | https://www.biodesix.com | Field sales only. |
+| 160 | Biofourmis | yes | yes | 0 | https://www.biofourmis.com/careers | Minimal hiring. |
+| 161 | Biogen | yes | yes | 2 | https://www.biogen.com/careers.html | 2 remote epi/biostat roles. |
+| 162 | BioMarin Pharmaceutical | yes | yes | 2 | https://www.biomarin.com | 2 remote outcomes/medical writer roles. |
+| 163 | bioMérieux | yes | yes | 0 | https://www.biomerieux.com | Onsite/hybrid MO/UT only. |
+| 164 | Bionetwork Consulting | n/a | yes | 0 | https://bionetworkconsulting.com | Recruitment agency. |
+| 165 | BioNTech | yes | yes | 1 | https://www.biontech.com/careers.html | 1 remote clinical trials analytics role. |
+| 166 | BioPharm Communications | yes | yes | 0 | https://www.biopharmcommunications.com/careers | Hybrid PA only. |
+| 167 | BioScience Communications | yes | yes | 0 | https://www.biosciencecommunications.com/careers | UK-based only. |
+| 168 | Bioscript Group | yes | yes | 0 | https://bioscriptgroup.com | UK/Europe only. |
+| 169 | Bixal | yes | yes | 3 | https://careers.bixal.com/ | 3 remote federal health data roles. |
+| 170 | BJC HealthCare | yes | yes | 0 | https://jobs.bjc.org/ | MO/IL residency required. |
+| 171 | Blood Cancer United | yes | yes | 0 | https://bloodcancerunited.org | Clinical/CRA roles excluded. |
+| 172 | Bloomberg Philanthropies | yes | yes | 0 | https://www.bloomberg.org/public-health | Part-time fellows only. |
+| 173 | Blue Fin Group | yes | yes | 0 | https://www.bluefingroup.com/careers/ | Consulting; no research roles. |
+| 174 | Blue Health Intelligence | yes | yes | 0 | https://www.bluehealthintelligence.com/careers | Hybrid/remote options unclear. |
+| 175 | Blue Matter Consulting | yes | yes | 2 | https://bluematterconsulting.com/careers/ | 2 remote research/analytics roles. |
+| 176 | Bluebird Bio | yes | yes | 2 | https://www.bluebirdbio.com/careers | 2 remote biostatistics roles. |
+| 177 | BluePath Solutions HEOR | yes | yes | 0 | https://www.bluepathsolutions.com/careers | Hybrid LA preferred. |
+| 178 | Boehringer Ingelheim | yes | yes | 2 | https://www.boehringer-ingelheim.com | 2 remote biostat/data science roles. |
+| 179 | BOLDSCIENCE | yes | yes | 2 | https://www.boldsci.com | 2 remote medical writer roles. |
+| 180 | Bon Secours Mercy Health | yes | yes | 2 | https://careers.bonsecours.com/us/en | 2 remote population health roles. |
+| 181 | Booz Allen Hamilton Inc | yes | yes | 3 | https://careers.boozallen.com/ | 3 remote epi/data roles. |
+| 182 | Border Policy Research Institute | no | yes | 0 | https://bpri.wwu.edu | Student internships only. |
+| 183 | Boston Children's Hospital | yes | yes | 1 | https://www.childrenshospital.org | 1 remote computational epi fellow. |
+| 184 | Boston Consulting Group | yes | yes | 0 | https://www.bcg.com/public-sector | Hybrid only. |
+| 185 | Boston Medical Center | yes | yes | 2 | https://careers.bmc.org | 2 remote research data roles. |
+| 186 | Boston Public Health Commission | yes | yes | 0 | https://www.bphc.org/about/careers | Boston residency required. |
+| 187 | Boston Scientific | yes | yes | 1 | https://jobs.bostonscientific.com/ | 1 remote biostatistics fellow. |
+| 188 | Boston Strategic Partners | yes | yes | 3 | https://bostonsp.com | 3 remote data/RWD/medical comm roles. |
+| 189 | Boston University School of Public Health | yes | yes | 0 | https://www.bu.edu/sph | Boston postdocs only. |
+| 190 | Bounce Medical Communications | yes | yes | 0 | https://www.bouncemedicalcommunications.com | UK-based hybrid only. |
+| 191 | Bracco | yes | yes | 1 | https://www.bracco.com | 1 remote medical director role. |
+| 192 | BresMed | yes | yes | 0 | https://www.bresmed.com/careers | No open positions. |
+| 193 | Bridge to Treatment | n/a | yes | 0 | https://www.bridgetotreatment.org | Treatment org; no research roles. |
+| 194 | BridgeBio Pharma | yes | yes | 3 | https://bridgebio.com/careers | 3 remote HEOR/biostat roles. |
+| 195 | Brigham Research Institute | yes | yes | 0 | https://www.brighamandwomens.org | Hybrid pharmacoepi roles. |
+| 196 | Bright Health | yes | yes | 0 | https://www.brighthealthcare.com/careers | No matching roles. |
+| 197 | Brightside Health | yes | yes | 1 | https://www.brightside.com/careers/ | 1 remote data scientist. |
+| 198 | Bristol Myers Squibb | yes | yes | 3 | https://www.bms.com | 3 remote RWD/epi roles. |
+| 199 | Broad Institute | yes | yes | 0 | https://www.broadinstitute.org/careers | Cambridge MA onsite. |
+| 200 | Broadstreet HEOR | yes | yes | 0 | https://www.broadstreetheor.com/careers | Canada-based only. |
+| 201 | Brookings Institution Health | yes | yes | 0 | https://www.brookings.edu/careers/ | Hybrid DC roles. |
+| 202 | Brown University School of Public Health | yes | yes | 0 | https://sph.brown.edu | State-restricted remote. |
+| 203 | C2N Diagnostics | yes | yes | 0 | https://c2n.com | No matching roles. |
+| 204 | CABI | yes | yes | 0 | https://www.cabi.org | International; no US remote. |
+| 205 | CACI Federal Health | yes | yes | 1 | https://careers.caci.com/ | 1 remote data scientist; clearance required. |
+| 206 | Cactus Life Sciences | yes | yes | 1 | https://cactuslifesciences.com | 1 remote medical writer. |
+| 207 | CAI Global | yes | yes | 2 | https://caiglobal.org | 2 remote data scientist roles. |
+| 208 | CalAIM Population Health Management Initiative | yes | yes | 0 | https://www.dhcs.ca.gov | CA state onsite roles. |
+| 209 | California Department of Health | yes | yes | 0 | https://jobs.ca.gov/ | CA state onsite roles. |
+| 210 | California State University Long Beach Health Science | yes | yes | 0 | https://www.csulb.edu/careers | Onsite campus roles. |
+| 211 | CSU Northridge Health Sciences | yes | yes | 0 | https://www.csun.edu/careers | 109 onsite campus jobs. |
+| 212 | Calveint | n/a | no | 0 | n/a | DNS error. |
+| 213 | Cambridge Health Alliance | yes | yes | 0 | https://www.challiance.org | Hospital clinical roles. |
+| 214 | Camden Coalition | no | yes | 0 | https://camdenhealth.org | NJ delivery org. |
+| 215 | Campbell Collaboration | no | yes | 0 | https://www.campbellcollaboration.org | No current openings. |
+| 216 | Canadian Institute for Health Information | yes | yes | 0 | https://www.cihi.ca | Canada only. |
+| 217 | Candid | yes | yes | 0 | https://candid.org | Philanthropy data; engineering only. |
+| 218 | Capgemini Invent Health | yes | yes | 0 | https://www.capgemini.com/careers/ | No remote health research. |
+| 219 | Carbon Health | yes | yes | 0 | https://carbonhealth.com/careers | Engineering/clinical only. |
+| 220 | Cardinal Health | yes | yes | 0 | https://www.cardinalhealth.com | No remote research matches. |
+| 221 | CARE | yes | yes | 0 | https://www.care.org | International NGO. |
+| 222 | Care New England Health System | no | yes | 0 | https://www.carenewengland.org | RI hospital clinical. |
+| 223 | Carelon Research | yes | yes | 0 | https://www.carelonresearch.com | Limited openings. |
+| 224 | Carenostics | no | yes | 0 | https://www.carenostics.com | No openings. |
+| 225 | Caris Life Sciences | yes | yes | 0 | https://www.carislifesciences.com | Lab-based onsite. |
+| 226 | Carrum Health | no | yes | 0 | https://carrumhealth.com/careers/ | Clinical ops only. |
+| 227 | Castlight Apree | yes | yes | 0 | https://www.apreehealth.com/careers | No remote research. |
+| 228 | Castor | yes | yes | 0 | https://www.castoredc.com | Netherlands engineering. |
+| 229 | CDC Foundation | yes | yes | 0 | https://www.cdcfoundation.org/careers | No remote research matches. |
+| 230 | CDPHP | yes | yes | 0 | https://www.cdphp.com | NY health plan clinical. |
+| 231 | Cedar | yes | yes | 2 | https://www.cedar.com/careers/open-roles | 2 remote healthcare data scientist roles. |
+| 232 | Cedars-Sinai | yes | yes | 1 | https://careers.cshs.org/remote-jobs | 1 remote health equity analyst; Epic role excluded. |
+| 233 | CellCarta | yes | yes | 0 | https://careers.caprion.com/apply | EU remote only. |
+| 234 | Cencora | yes | yes | 2 | https://www.cencora.com | 2 remote RWE/data science roles. |
+| 235 | Center for Firearm Injury Prevention UW | yes | yes | 0 | https://cfip.uw.edu | No current openings. |
+| 236 | Center for Health Care Strategies | yes | yes | 0 | https://www.chcs.org/about-us/job-opportunities/ | No current remote openings. |
+| 237 | CIRP CHOP | yes | yes | 0 | https://injury.research.chop.edu/about-cirp/employment-opportunities | No current postings. |
+| 238 | COEH UC Berkeley | yes | yes | 0 | https://www.coeh.berkeley.edu | Lecturer pool only. |
+| 239 | Center for Violence Prevention Research | yes | yes | 0 | https://www.scienceofviolence.org/hiring | Positions filled. |
+| 240 | Center on Budget and Policy Priorities | yes | yes | 0 | https://www.cbpp.org/careers | Internship/hybrid excluded. |
