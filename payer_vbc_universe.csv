@@ -1,0 +1,53 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+The Health Plan,https://www.healthplan.org,healthplan.org,Health Insurance,Member portal for tracking payments and finding doctors,High,Health insurance company
+Virginia Cardinal Care,https://www.virginiamanagedcare.com,virginiamanagedcare.com,Medicaid Managed Care,Virginia Medicaid managed care program,High,State Medicaid MCO
+UnitedHealthcare,https://www.uhc.com,uhc.com,Health Insurance,National health insurance including Medicare and Medicaid,High,Major national health insurer
+Jai Medical Systems,https://www.jaimedicalsystems.com,jaimedicalsystems.com,Managed Care,Health insurance agency and Medicaid guidance,Medium,Local Maryland managed care organization
+Trusted Health Plan Inc,https://www.trustedhealthplan.com,trustedhealthplan.com,Health Insurance,Health insurance plans,Medium,DC-based health plan
+NALC Health Benefit Plan,https://www.nalchbp.org,nalchbp.org,Health Insurance,Health benefit plan for postal workers,Medium,Health insurance agency
+UPMC Health Plan,https://www.upmchealthplan.com,upmchealthplan.com,Health Insurance,Access to hospitals doctors and customer service,High,Pennsylvania health insurer
+Avalere Health,https://advisory.avalerehealth.com,avalerehealth.com,Payer Analytics,Health plan consulting and managed care solutions,High,Policy analytics and health plan advisory
+Cigna Healthcare,https://www.cigna.com,cigna.com,Health Insurance,Medical and dental health insurance,High,Major national health insurer
+Valor Health Plans,https://www.valorhealthplan.com,valorhealthplan.com,Medicare Advantage,Medicare Advantage HMO-SNP for long-term care,High,Medicare Advantage plan
+Medicaid Health Plans of America,https://medicaidhealthplans.org,medicaidhealthplans.org,Medicaid Managed Care,Trade association for Medicaid managed care organizations,High,Industry association representing Medicaid MCOs
+Humana,https://www.humana.com,humana.com,Health Insurance,Medicare plans and health insurance coverage,High,Major national Medicare Advantage and health insurer
+CalAIM Population Health Management Initiative,https://www.dhcs.ca.gov,dhcs.ca.gov,Population Health,California PHM program for Medi-Cal Managed Care Plans,High,State population health management program
+Better Medicare Alliance,https://bettermedicarealliance.org,bettermedicarealliance.org,Medicare Advantage,Population health management and value-based care advocacy,High,Medicare Advantage advocacy organization
+Aetna,https://www.aetna.com,aetna.com,Health Insurance,Health insurance including dental and vision plans,High,Major national health insurer
+Memorial Hermann Health Plan,https://healthplan.memorialhermann.org,memorialhermann.org,Health Insurance,Memorial Hermann Health Insurance Company,High,Texas regional health plan
+Piedmont Community Health Plan,http://pchp.net,pchp.net,Health Insurance,Affordable comprehensive coverage,High,Regional health plan
+Geisinger Health Plan,https://www.geisinger.org,geisinger.org,Health Insurance,Pennsylvania health insurance and Medicare Advantage plans,High,Pennsylvania integrated delivery system with health plan
+Physical HealthChoices,https://www.pa.gov,pa.gov,Medicaid Managed Care,Pennsylvania Medicaid MCO program directory,High,State Medicaid managed care program
+Mass General Brigham Health Plan,https://massgeneralbrighamhealthplan.org,massgeneralbrighamhealthplan.org,Medicare Advantage,New Medicare Advantage experience from Mass General Brigham,High,Massachusetts Medicare Advantage plan
+Novant Health,https://www.novanthealth.org,novanthealth.org,Medicaid Managed Care,Medicaid managed care and Medicaid expansion clinics,High,Health system with Medicaid managed care
+McLaren Health Plan,https://www.mclarenhealthplan.org,mclarenhealthplan.org,Health Insurance,Medicaid and Michigan health insurance coverage,High,Michigan health plan
+Partners Health Plan,https://phpcares.org,phpcares.org,Medicaid Managed Care,Managed care plan for Medicare and Medicaid in New York,High,New York managed care plan
+Alignment Health Plan,https://www.alignmenthealthplan.com,alignmenthealthplan.com,Medicare Advantage,Medicare Advantage plans,High,Medicare Advantage insurer
+Fallon Health,https://www.fallonhealth.org,fallonhealth.org,Health Insurance,Medicare older adults individuals families MassHealth,High,Massachusetts health plan
+Washington Healthplanfinder,https://www.wahealthplanfinder.org,wahealthplanfinder.org,Other,Washington health plan marketplace and exchange,High,State health insurance exchange
+Priority Health,https://www.priorityhealth.com,priorityhealth.com,Health Insurance,Michigan health insurance for individuals families employers Medicare Medicaid,High,Michigan health insurer
+Alliance Health,https://www.alliancehealthplan.org,alliancehealthplan.org,Medicaid Managed Care,North Carolina BH/IDD Tailored Plan,High,North Carolina Medicaid MCO
+SCAN Health Plan,https://www.scanhealthplan.com,scanhealthplan.com,Medicare Advantage,Medicare Advantage plans in California Arizona Nevada,High,Medicare Advantage insurer
+Anthem,https://www.anthem.com,anthem.com,Medicare Advantage,Anthem Medicare Advantage Plans Part C,High,Major national Medicare Advantage insurer
+MVP Health Care,https://www.mvphealthcare.com,mvphealthcare.com,Health Insurance,NY health insurance for individuals family employer-based,High,Northeast regional health insurer
+L.A. Care Health Plan,https://lacare.org,lacare.org,Health Insurance,Medi-Cal coverage,High,California public health plan
+Health Plan One,https://www.hpone.com,hpone.com,Other,Health and Medicare insurance broker marketplace,Medium,Insurance broker not actual health plan
+PrimeTime Health Plan,https://www.primetimehealthplan.com,primetimehealthplan.com,Medicare Advantage,Locally owned Medicare Advantage plan in Ohio,High,Ohio Medicare Advantage plan
+Peach State Health Plan,https://www.pshpgeorgia.com,pshpgeorgia.com,Medicaid Managed Care,Georgia Medicaid and health insurance,High,Georgia Medicaid MCO
+Sunshine Health,https://www.sunshinehealth.com,sunshinehealth.com,Medicaid Managed Care,Florida Medicaid Medicare plans health insurance,High,Florida Medicaid MCO
+Gold Coast Health Plan,https://www.goldcoasthealthplan.org,goldcoasthealthplan.org,Health Insurance,Compassionate care accessible to all,High,California regional health plan
+Valley Health Plan,https://www.valleyhealthplan.org,valleyhealthplan.org,Care Management,Care management program case management care coordination,High,Care management services
+Clever Care Health Plan,https://www.clevercarehealthplan.com,clevercarehealthplan.com,Medicare Advantage,Medicare Advantage Alternative Medicine Plans,High,Medicare Advantage with alternative medicine focus
+Tribute Health Plans,https://www.tributemedicare.com,tributemedicare.com,Medicare Advantage,Medicare Advantage HMO-POS-SNP for long-term care,High,Medicare Advantage health plan
+Medica,https://www.medica.com,medica.com,Health Insurance,Multi-state health insurer individual family employer Medicaid Medicare,High,Health insurer in IA MN KS MO NE ND OK SD WI
+Urban Health Plan,https://www.urbanhealthplan.org,urbanhealthplan.org,Health Insurance,Medicare and Medicaid plans Health Connector employer plans,High,Community health plan
+NHC Advantage,https://www.nhcadvantageplan.com,nhcadvantageplan.com,Medicare Advantage,Medicare Advantage requiring Medicare Part A and Part B,High,Medicare Advantage plan
+Oregon Health Plan,https://www.oregon.gov/oha,oregon.gov,Medicaid Managed Care,Oregon Medicaid medical assistance program,High,Oregon Medicaid program
+Imperial Health Plan,https://www.imperialhealthplan.com,imperialhealthplan.com,Health Insurance,Medicare Advantage and Marketplace plans across six states,High,Regional health insurer
+NJ FamilyCare,https://www.njfamilycare.org,njfamilycare.org,Medicaid Managed Care,New Jersey Medicaid MCO enrollment,High,New Jersey Medicaid program
+Santa Clara Family Health Plan,https://www.scfhp.com,scfhp.com,Population Health,Population Health Management PHM Program,High,California Medi-Cal plan with PHM program
+Tufts Health Plan,https://www.tuftshealthplan.com,tuftshealthplan.com,Health Insurance,Medicare and Medicaid Health Connector employer-based plans,High,Massachusetts health insurer
+Hometown Health,https://www.hometownhealth.com,hometownhealth.com,Health Insurance,Nevada largest not-for-profit insurance NCQA accredited,High,Nevada not-for-profit health plan
+MagnaCare,https://www.magnacare.com,magnacare.com,Other,Third party administrator customized healthcare solutions,High,TPA delivering healthcare solutions
+Partnership HealthPlan,https://www.partnershp.org,partnershp.org,Medicaid Managed Care,Non-profit community based health care organization Medi-Cal,High,California Medi-Cal plan administrator
+Providence Health Plan,https://www.providencehealthplan.com,providencehealthplan.com,Health Insurance,Health plans designed for community health,High,Oregon and Washington health plan
