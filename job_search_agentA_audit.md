@@ -3,8 +3,8 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 110 / 240
-- **Matching remote jobs found:** 36
+- **Employers processed:** 150 / 240
+- **Matching remote jobs found:** 44
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
 - **Search terms (one at a time, no Boolean OR):** research, epidemiology, biostatistics, HEOR, outcomes research, public health, data scientist, medical writer
@@ -124,3 +124,43 @@
 | 108 | Astellas Pharma US | n/a | no | 0 | n/a | Not searched. |
 | 109 | AstraZeneca | n/a | no | 0 | n/a | Not searched. |
 | 110 | Athena Diagnostics | n/a | no | 0 | n/a | Not searched. |
+| 111 | athenahealth | yes | yes | 0 | https://careers.athenahealth.com | Careers portal found; keyword search incomplete. |
+| 112 | Atlantic Health | yes | yes | 0 | https://careers.atriumhealth.org | NJ health system; onsite clinical focus. |
+| 113 | Atrium Health | yes | yes | 0 | https://careers.atriumhealth.org | NC health system; onsite roles. |
+| 114 | Atropos Health | yes | yes | 0 | https://www.atroposhealth.com/careers | 3 openings; engineering/sales only. |
+| 115 | Auburn University Health Sciences | yes | yes | 0 | https://jobs.auburn.edu/auburn/jobs | University jobs; search incomplete. |
+| 116 | Augusta Health | yes | yes | 0 | https://recruiting.ultipro.com/aug1000aug | VA hospital; onsite clinical. |
+| 117 | Augusta University | yes | yes | 0 | https://www.augusta.edu/hr/jobs | University HR portal; search incomplete. |
+| 118 | Aurevia | yes | yes | 0 | https://www.aurevia.com/careers | Europe-based; no US remote. |
+| 119 | AuroraMed | no | no | 0 | https://auroramed.pt | Portugal startup; no careers portal. |
+| 120 | Australian Govt Dept of Health | yes | yes | 0 | https://www.health.gov.au | Australia-based only. |
+| 121 | Avalere Health Advisory | n/a | no | 0 | https://advisory.avalerehealth.com | Acquired by athenahealth; no careers page. |
+| 122 | Aventine Consulting | n/a | no | 0 | https://www.aventineconsulting.com | Acquired by Prime Global. |
+| 123 | Axial Group | yes | yes | 0 | https://axial.net/careers-at-axial/ | M&A/finance/sales only. |
+| 124 | Axina | n/a | no | 0 | https://www.axina.com | No public careers page. |
+| 125 | Axiom Resource Management | yes | yes | 0 | https://axiom-rm.com/job-board | No current openings. |
+| 126 | Axle Informatics | yes | yes | 3 | https://job-boards.greenhouse.io/axle | 3 remote US research/data/writing roles. |
+| 127 | AXON Communications | yes | yes | 0 | https://www.axoncom.com/join-us/ | Medical writers UK/Canada only. |
+| 128 | Azalea Health | yes | yes | 0 | https://www.azaleahealth.com/about/careers/ | Software/support roles only. |
+| 129 | Azenta Life Sciences | yes | yes | 0 | https://careers.azenta.com | Lab/operations onsite roles. |
+| 130 | Babylon Health | n/a | no | 0 | https://www.babylonhealth.com/careers | Defunct (bankruptcy 2023). |
+| 131 | Back Bay Life Science Advisors | n/a | no | 0 | https://www.bblsa.com/lifescience/careers | URL inaccessible. |
+| 132 | BAE Systems Health | yes | yes | 0 | https://jobs.baesystems.com/ | Defense/clearance onsite roles. |
+| 133 | Bain & Company | yes | yes | 0 | https://www.bain.com | Hybrid/international only. |
+| 134 | Ballad Health | yes | yes | 0 | https://jobs.balladhealth.org/ | No remote matches. |
+| 135 | Banner Health Sun Health Research | yes | yes | 0 | https://www.bannerhealth.com | Research roles onsite. |
+| 136 | Battelle | yes | yes | 0 | https://jobs.battelle.org | No active remote research roles. |
+| 137 | Battelle Health | yes | yes | 0 | https://jobs.battelle.org/ | Duplicate of Battelle. |
+| 138 | Bausch Health | yes | yes | 0 | https://www.bauschhealth.com/careers | No explicit remote positions. |
+| 139 | Baxter | yes | yes | 4 | https://jobs.baxter.com/en | 4 remote HEOR/RWD/analytics roles. |
+| 140 | Bayer | yes | yes | 1 | https://talent.bayer.com | 1 residence-based US research role. |
+| 141 | Baylor College of Medicine | yes | yes | 0 | https://jobs.bcm.edu/ | 525 research results; Texas onsite only. |
+| 142 | Baylor Scott & White Health | yes | yes | 0 | https://jobs.bswhealth.com/us/en | 556 research results; Texas onsite only. |
+| 143 | Baylor University Public Health | yes | yes | 0 | https://jobs.baylor.edu/ | 55 results; on-site only Waco TX. |
+| 144 | Baylor University Robbins College | n/a | no | 0 | https://robbins.baylor.edu | Not searched. |
+| 145 | Baystate Health | n/a | no | 0 | https://www.baystatehealth.org | Not searched. |
+| 146 | BCBSA | n/a | yes | 0 | https://www.bcbs.com/careers | Federated; state-specific portals. |
+| 147 | Beacon Health System | n/a | no | 0 | https://www.beaconhealthsystem.org | Not searched. |
+| 148 | Beam Therapeutics | n/a | no | 0 | https://beamtx.com/careers/ | Not searched. |
+| 149 | Becton Dickinson (BD) | n/a | no | 0 | https://www.bd.com | Not searched. |
+| 150 | Bedrock Healthcare Communications | n/a | no | 0 | https://bedrock-health.com | Not searched. |
