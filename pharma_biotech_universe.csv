@@ -1,0 +1,48 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+Amgen,https://www.amgen.com,amgen.com,Biotechnology,"Biopharmaceutical company developing innovative medicines to fight diseases, harnesses biology to advance human health",High,Major biotech company
+Eli Lilly and Company,https://www.lilly.com,lilly.com,Pharmaceutical,"Medicine company that puts health above all, medicines for various conditions",High,Major pharmaceutical company
+Merck,https://www.merck.com,merck.com,Pharmaceutical,Following science to tackle health threats and improve lives,High,Major pharmaceutical company
+Genentech,https://www.gene.com,gene.com,Biotechnology,"Celebrates 50 years of innovation, opening new possibilities for drug development",High,Major biotech; Roche subsidiary
+Alexion,https://www.alexion.com,alexion.com,Biotechnology,"AstraZeneca Rare Disease, delivering life-changing therapies for rare diseases",High,Rare disease biotech
+Pfizer,https://www.pfizer.com,pfizer.com,Pharmaceutical,"One of world's premier biopharmaceutical companies, medicines for all types of diseases",High,Major pharmaceutical company
+Gilead Sciences,https://www.gilead.com,gilead.com,Pharmaceutical,"Biopharma company achieving bold ambitions, leading in HIV and liver disease",High,Major biopharma company
+Bristol Myers Squibb,https://www.bms.com,bms.com,Pharmaceutical,"Global biopharmaceutical company discovering, developing and delivering innovative medicines for serious diseases",High,Major pharmaceutical company
+Takeda Pharmaceuticals,https://www.takeda.com,takeda.com,Pharmaceutical,"Largest life sciences employer in the U.S., Takeda Pharmaceutical Company Limited",High,Major pharmaceutical company
+Regeneron,https://www.regeneron.com,regeneron.com,Biotechnology,Harmonizes biology and technology to create life-changing medicines,High,Major biotech company
+GSK,https://www.gsk.com,gsk.com,Pharmaceutical,"Focused biopharma company; discover, develop and deliver medicines and vaccines",High,Major pharmaceutical company
+AbbVie,https://www.abbvie.com,abbvie.com,Pharmaceutical,Combines advanced science with expertise to make strides in drug and treatment discovery,High,Major pharmaceutical company
+IQVIA,https://www.iqvia.com,iqvia.com,Other,Empowers life sciences organizations to accelerate innovation and improve patient outcomes,Medium,Data and technology for life sciences; not traditional pharma/biotech
+Eisai,https://www.eisai.com,eisai.com,Pharmaceutical,Human-centered pharmaceutical company focusing on areas of great medical need,High,Pharmaceutical company
+Emmaus Medical Inc.,https://www.emmausmedical.com,emmausmedical.com,Biotechnology,Biopharmaceutical company engaged in developing new treatments; Emmaus Life Sciences,High,Biopharmaceutical company
+Caris Life Sciences,https://www.carislifesciences.com,carislifesciences.com,Diagnostics,"Fulfills promise of precision oncology through advanced laboratory testing, tumor profiling and blood-based cancer diagnostics",High,Precision oncology and diagnostics company
+Sutro Biopharma Inc.,https://www.sutrobio.com,sutrobio.com,Biotechnology,Public biotechnology company headquartered in South San Francisco; focused on clinical stage drug discovery,High,Biotechnology company
+Anavex Life Sciences,https://www.anavex.com,anavex.com,Biotechnology,Biopharmaceutical leader advancing targeted CNS therapies through innovative therapeutic discovery and development,High,CNS and Alzheimer's biotech
+Verily,https://www.verily.com,verily.com,Precision Medicine,"Building the future of precision health; AI-native platform for complex health data",Medium,Health tech and precision medicine; Google subsidiary
+10x Genomics,https://www.10xgenomics.com,10xgenomics.com,Genomics,Delivering powerful reliable tools that fuel scientific discoveries and drive exponential progress,High,Genomics and biology tools company
+CRISPR Therapeutics,https://www.crisprtx.com,crisprtx.com,Biotechnology,"Pioneering a new era of medicines, transforming lives of patients with serious diseases",High,Gene editing biotech
+AstraZeneca,https://www.astrazeneca.com,astrazeneca.com,Pharmaceutical,"Global science-led biopharmaceutical business; innovative medicines used by millions of patients worldwide",High,Major pharmaceutical company
+Argenx,https://www.argenx.com,argenx.com,Biotechnology,Investigating efgartigimod for treatment of several severe autoimmune diseases; marketed as VYVGART,High,Immunology biotech
+BioMarin Pharmaceutical,https://www.biomarin.com,biomarin.com,Biotechnology,Leading global rare disease biotechnology company focused on delivering medicines for people living with genetically defined rare diseases,High,Rare disease biotech
+Johnson & Johnson,https://www.jnj.com,jnj.com,Pharmaceutical,Creating new and groundbreaking medicines to change the future of health,High,Major healthcare and pharmaceutical company
+Sanofi,https://www.sanofi.com,sanofi.com,Pharmaceutical,R&D-driven and AI-powered healthcare biopharmaceutical company committed to improving lives through innovative medicines,High,Major pharmaceutical company
+Helix,https://www.helix.com,helix.com,Genomics,"Delivers clinical genomic testing, population health programs, and world's largest clinico-genomic database",High,Genomics and precision health company
+Alnylam,https://www.alnylam.com,alnylam.com,Therapeutics,"Leading RNAi therapeutics company; pioneered RNA interference, innovative class of medicines",High,RNAi therapeutics biotech
+Tempus,https://www.tempus.com,tempus.com,Precision Medicine,AI-powered precision medicine and genomic testing; world's largest library of clinical and molecular data,High,Precision medicine and genomic testing
+Novartis,https://www.novartis.com,novartis.com,Pharmaceutical,Innovative medicines company; reimagining medicine to improve and extend people's lives,High,Major pharmaceutical company
+Roche,https://www.roche.com,roche.com,Pharmaceutical,Combining life-changing diagnostics and medicines to take on toughest healthcare challenges,High,Major pharmaceutical and diagnostics company; also Diagnostics
+Tiziana Life Sciences,https://www.tizianalifesciences.com,tizianalifesciences.com,Biotechnology,Bringing breakthrough therapies to patients with aim of treating Non-Active Secondary Progressive Multiple Sclerosis Alzheimer's and ALS,High,Biotechnology company
+Azenta Life Sciences,https://www.azenta.com,azenta.com,Other,Pharmaceutical company sought support to store GMP materials at ultra low temperature,Medium,Life sciences services and storage provider
+Novo Nordisk,https://www.novonordisk.com,novonordisk.com,Pharmaceutical,"Leading global healthcare company founded in 1923, headquartered in Denmark; driving change to defeat diabetes",High,Major pharmaceutical company (diabetes)
+Teva Pharmaceuticals,https://www.tevapharm.com,tevapharm.com,Pharmaceutical,Teva Pharmaceutical Company pushes boundaries of scientific innovation and delivers quality medication,High,Major pharmaceutical company (generics)
+Amicus Therapeutics,https://www.amicusrx.com,amicusrx.com,Biotechnology,Wholly owned subsidiary of BioMarin Pharmaceutical Inc.; rare disease biotechnology company focused on delivering medicines,High,Rare disease biotech
+PTC Therapeutics,https://www.ptcbio.com,ptcbio.com,Therapeutics,Commitment to developing innovative treatments for rare diseases,High,Rare disease therapeutics company
+Danaher Life Sciences,https://lifesciences.danaher.com,danaher.com,Other,"Improving drug candidate success rates by 25% with automation solutions, analytical innovations, digital solutions",Medium,Life sciences tools and services provider
+Discovery Life Sciences,https://www.dls.com,dls.com,Other,Mission to restore hope by speeding development of innovative diagnostics and effective treatments,Medium,Life sciences services and biobanking
+Enzo Life Sciences,https://www.enzo.com,enzo.com,Other,"Featured Technologies: Spatial Biology, Spatial Biology Protein Analysis, Next-Generation Fluorescent Dyes, Biomanufacturing Life Sciences Contract Services",Medium,Life sciences reagents and tools supplier
+Emergent BioSolutions,https://www.emergentbiosolutions.com,emergentbiosolutions.com,Biotechnology,Provides specialty products for civilian and military populations that address intentional and naturally emerging public health threats,High,Vaccines and biodefense company
+Veeva Systems,https://www.veeva.com,veeva.com,Other,"Industry cloud for life sciences with software, AI, data, and consulting",Medium,Software and cloud services for life sciences
+Ipsen,https://www.ipsen.com,ipsen.com,Pharmaceutical,Global biopharmaceutical company focused on innovation and specialty care to improve lives of patients,High,Biopharmaceutical company
+Boehringer Ingelheim,https://www.boehringer-ingelheim.com,boehringer-ingelheim.com,Pharmaceutical,Changing life for the better for people and animals,High,Major pharmaceutical company
+SK Life Science Inc.,https://www.sklifescienceinc.com,sklifescienceinc.com,Pharmaceutical,Dedicated to finding new treatments that will address needs of those living with central nervous system (CNS) disorder,High,CNS pharmaceutical company
+hVIVO,https://www.hvivo.com,hvivo.com,Other,Full service clinical research organisation with 30+ years of experience; integrated clinical laboratory and consulting services,Medium,Clinical research organization
+Immunomic Therapeutics Inc.,https://www.immunomic.com,immunomic.com,Biotechnology,Privately-held clinical stage biotechnology company pioneering study of nucleic acid immunotherapy platforms,High,Biotechnology company
