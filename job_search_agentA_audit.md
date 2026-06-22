@@ -3,7 +3,7 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 10 / 240
+- **Employers processed:** 30 / 240
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
 - **Search terms (one at a time, no Boolean OR):** research, epidemiology, biostatistics, HEOR, outcomes research, public health, data scientist, medical writer
@@ -23,3 +23,23 @@
 | 8 | AbbVie | yes | yes | 0 | https://careers.abbvie.com | epidemiology 21 results; international locations only (Shanghai, Bucharest). |
 | 9 | Abridge | no | yes | 0 | https://jobs.ashbyhq.com/Abridge | 56 engineering roles; filters only, no keyword search. |
 | 10 | Abt Global Federal | no | yes | 0 | https://www.abtglobal.com/careers | Careers page found; no accessible job search interface. |
+| 11 | AcademyHealth | n/a | no | 0 | n/a | Browser navigation issues prevented access to careers page. |
+| 12 | Accenture | yes | yes | 0 | https://www.accenture.com/us-en/careers/jobsearch | 8 remote jobs; all Infrastructure/Construction, not target categories. Search input corrupted on term entry. |
+| 13 | Accolade | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 14 | Volcker Alliance ARC | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 15 | Accuhealth | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 16 | Acumen Medical Communications | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 17 | Ad Hoc LLC | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 18 | Adaptive Biotechnologies | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 19 | Adaptive Phage Therapeutics | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 20 | Adelphi Group | n/a | no | 0 | n/a | Not accessed (batch 2 incomplete). |
+| 21 | Advarra | yes | yes | 3 | https://recruiting.ultipro.com/ADV1023AVR/JobBoard/605fd363-03fe-4650-945e-f838308a8388 | UltiPro; remote filter; 3 medical writing/data analyst roles. |
+| 22 | AdventHealth TRI | n/a | no | 0 | https://www.adventhealth.com/institutes/translational-research | Institute page; no separate careers section. |
+| 23 | Adventist Health | n/a | no | 0 | n/a | Navigation difficulties prevented access. |
+| 24 | Advocate Health | yes | yes | 0 | https://careers.aah.org/job-search-results | 23 remote jobs; Director clinical trial role excluded (executive). |
+| 25 | Aetion | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
+| 26 | Aetna | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
+| 27 | Africa Policy Research Institute | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
+| 28 | AHRQ | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
+| 29 | Agilent Technologies | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
+| 30 | Agilify Health | n/a | no | 0 | n/a | Not accessed (batch 3 incomplete). |
