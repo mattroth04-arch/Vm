@@ -1,0 +1,41 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+Amazon Health AI,https://health.amazon.com/health-ai/learn-more,health.amazon.com,Health AI,AI-powered personal health assistant backed by One Medical providers,high,Amazon consumer health AI product
+Tempus,https://www.tempus.com,tempus.com,Other,AI-powered precision medicine and genomic testing platform,high,Clinical and molecular data operating system
+Arcadia,https://arcadia.io,arcadia.io,Healthcare Analytics,Value-based care analytics and population risk management,high,Population health insights and quality metrics
+Foundation Medicine,https://www.foundationmedicine.com,foundationmedicine.com,Other,Genomic profiling and precision oncology,high,Roche subsidiary focused on cancer care
+Altera Digital Health,https://www.alterahealth.com,alterahealth.com,Healthcare Software,EHR and healthcare IT for mid-size hospitals and health systems,high,Former Allscripts hospital division
+The SSI Group,https://www.thessigroup.com,thessigroup.com,Quality Measurement,QM Optimizer Elite quality measurement and performance optimization,high,Integrates with care management and population health systems
+Innovaccer,https://www.innovaccer.com,innovaccer.com,Population Health,Value-based care data activation platform,high,Population health and intelligent automation for providers
+Tandem Health AI,https://tandemhealth.ai,tandemhealth.ai,Health AI,Clinical AI assistant for healthcare providers,high,EU regulatory-compliant clinical documentation AI
+Oncodesign Precision Medicine,https://www.oncodesign.com,oncodesign.com,Other,Precision medicine for cancer treatment and diagnostics,high,Biotech focused on resistant and metastatic cancer
+Prevounce,https://www.prevounce.com,prevounce.com,Digital Health,Remote patient monitoring software platform,high,RPM connecting patients and clinicians
+Century Health,https://www.century.health,century.health,Health AI,Real-world data and clinical AI for medical breakthroughs,high,Evidence generation grounded in clinical care
+Eleos Health,https://eleos.health,eleos.health,Health AI,Behavioral health AI for telemedicine and virtual care,high,Digital health AI for behavioral health providers
+Peterson Health Technology Institute,https://phti.org,phti.org,Other,Independent evaluation of digital health technology,medium,Nonprofit institute assessing health tech including AI and RPM
+Pearl Health,https://www.pearlhealth.com,pearlhealth.com,Healthcare Analytics,Value-based care intelligence and financial modeling for providers,high,AI workflow automation for 5000+ providers
+Health Catalyst,https://www.healthcatalyst.com,healthcatalyst.com,Healthcare Analytics,Healthcare analytics population health and value-based care,high,Clinical analytics library and data platform
+Office Ally,https://www.officeally.com,officeally.com,Healthcare Software,Healthcare software for hospitals and medical practices,high,Practice management and value-based care portal
+Premier Inc.,https://premierinc.com,premierinc.com,Other,Value-based care and population health strategy consulting,high,Healthcare improvement company and GPO
+Aptar Digital Health,https://www.aptardigitalhealth.com,aptardigitalhealth.com,Digital Health,Digital health drug delivery and patient engagement solutions,high,Aptar Pharma digital health division
+MEDITECH,https://ehr.meditech.com,ehr.meditech.com,Healthcare Software,Electronic health record software for hospitals,high,Major EHR vendor
+Merative,https://www.merative.com,merative.com,Healthcare Software,Health data analytics and technology solutions,high,Former IBM Watson Health assets
+Bristol Myers Squibb,https://www.bms.com,bms.com,Other,Pharmaceutical precision medicine and oncology,medium,Pharma with precision medicine portfolio
+Carelon Research,https://www.carelonresearch.com,carelonresearch.com,Healthcare Analytics,Real-world evidence and healthcare research analytics,high,Elevance Health research subsidiary
+Roche,https://www.roche.com,roche.com,Other,Pharmaceutical precision medicine and diagnostics,medium,Global pharma with precision medicine focus
+Persivia,https://persivia.com,persivia.com,Population Health,Care management and population health platform,high,AI-driven care coordination for value-based care
+Accuhealth,https://accuhealth.tech,accuhealth.tech,Digital Health,Remote patient monitoring technology platform,high,RPM with clinical monitoring services
+Pi Health,https://pihealth.ai,pihealth.ai,Health AI,Oncology AI and precision medicine technology,high,AI platform for cancer care
+Lumeris,https://lumeris.com,lumeris.com,Population Health,Value-based care enablement and population health management,high,Technology-enabled services for health systems
+Ambient Clinical Analytics,https://ambientclinical.com,ambientclinical.com,Clinical Analytics,FDA-cleared digital health and clinical analytics for RPM,high,Real-time clinical condition monitoring
+Dandelion Health,https://dandelionhealth.ai,dandelionhealth.ai,Health AI,Multimodal real-world data clinical AI marketplace,high,Precision medicine platform combining RWD with validated AI
+Tellihealth,https://tellihealth.com,tellihealth.com,Digital Health,Remote patient monitoring and chronic care management,high,RPM and CCM for nephrology and specialty practices
+Samsung Research America,https://sra.samsung.com/research-area/digital-health,sra.samsung.com,Digital Health,Digital health research and prognostic biomarkers,medium,Samsung R&D digital health division
+Hera Digital Health,https://heradigitalhealth.org,heradigitalhealth.org,Digital Health,AI-powered health technology for displaced communities,medium,Digital health nonprofit technology organization
+SmartClinx,https://smartclinx.net,smartclinx.net,Digital Health,Digital health platforms and remote patient monitoring,high,Hospital public health tracking and RPM
+Mytonomy,https://mytonomy.com,mytonomy.com,Digital Health,Patient engagement microlearning and education platform,high,Digital health patient education video platform
+Siemens Healthineers,https://www.siemens-healthineers.com/digital-health,siemens-healthineers.com,Healthcare Software,Digital health enterprise imaging and automation solutions,high,Medical technology digital transformation
+Vivify Health,https://vivifyhealth.com,vivifyhealth.com,Digital Health,Remote patient monitoring and connected care delivery,high,Connected healthcare delivery platform
+Koan Health,https://koanhealth.com,koanhealth.com,Population Health,Population health analytics for ACO value-based care,high,ACO cost and quality performance platform
+Quantician,https://www.quantician.com,quantician.com,Population Health,Population health platform for value-based care and MIPS,high,Patient engagement and quality reporting analytics
+Medtronic,https://www.medtronic.com/us-en/healthcare-professionals/products/remote-monitoring.html,medtronic.com,Digital Health,HealthCast Vital Sync remote patient monitoring,medium,Medical device company with hospital RPM product
+Welby Health,https://welbyhealth.com,welbyhealth.com,Health AI,AI-powered remote patient monitoring and transitional care,high,WelbyCare platform for proactive population health
