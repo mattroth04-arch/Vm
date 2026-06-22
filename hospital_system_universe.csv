@@ -1,0 +1,76 @@
+organization,visible_url,domain,organization_type,health_system_type,confidence,notes
+University of Virginia Health System,https://www.medicalcenter.virginia.edu › population-health,medicalcenter.virginia.edu,Academic Hospital,Integrated Academic Health System,high,Nationally ranked academic medical center with Level I trauma center and population health program
+Veterans Health Administration,https://www.research.va.gov,va.gov,VA Medical Center,Integrated Federal Health System,high,Operates 115+ VA facilities nationwide including Washington VA and Central Virginia VA Health Care System
+NIH Clinical Center,https://www.cc.nih.gov,nih.gov,Specialty Hospital,Federal Research Hospital,high,Premier U.S. hospital for clinical research located in Bethesda MD
+VCU Health,https://www.vcuhealth.org,vcuhealth.org,Academic Hospital,Academic Medical Center,high,Virginia Commonwealth University Health System with discovery and innovation focus
+Children's National,https://www.childrensnational.org › about-us,childrensnational.org,Children's Hospital,Standalone Children's Hospital,high,Washington D.C. region's only standalone children's hospital serving 250000+ kids annually
+MedStar Health,https://www.medstarhealth.org › innovation-and-research,medstarhealth.org,Hospital System,Integrated Delivery Network,high,Research institute supporting clinical research throughout the MedStar Health system
+Cheshire Medical Center,https://www.cheshiremed.org › about › center-population,cheshiremed.org,Regional Health System,Community Hospital,high,Non-profit medical center with Center for Population Health in Monadnock Region
+Walter Reed National Military Medical Center,https://walterreed.tricare.mil,walterreed.tricare.mil,VA Medical Center,Military Medical Center,high,Defense Health Agency component and premier military treatment facility
+Dartmouth-Hitchcock Medical Center,https://www.dartmouth-hitchcock.org › about › population,dartmouth-hitchcock.org,Academic Hospital,Academic Medical Center,high,Population Health team convenes health system and community leaders for evidence-based programs
+CentraCare Health System,https://www.centracare.com,centracare.com,Hospital System,Regional Health System,medium,Major regional health system in Minnesota identified via research profile
+HCA Midwest Health - Research Medical Center,https://www.hcamidwest.com › locations › research-medical,hcamidwest.com,Regional Health System,HCA Healthcare System,high,Kansas City Research Medical Center part of HCA Midwest
+Inova Health System,https://www.inova.org,inova.org,Hospital System,Integrated Delivery Network,high,Northern Virginia IDN including Inova L.J. Murphy Children's Hospital and multiple regional facilities
+University of Kansas Medical Center,https://www.kumc.edu › academics › departments › population,kumc.edu,Academic Hospital,Academic Medical Center,high,University of Kansas Health System with Cancer Center and population health program
+University of Maryland Medical System,https://www.umms.org › health-services › population-health,umms.org,Academic Hospital,Academic Health System,high,Multi-hospital academic system enabling best practices across Maryland communities
+Children's Hospital of Philadelphia,https://www.research.chop.edu,research.chop.edu,Children's Hospital,Academic Medical Center / Pediatric Specialty Hospital,high,Major pediatric research institute with biostatistics and data management programs
+Cincinnati Children's Hospital,https://www.cincinnatichildrens.org,cincinnatichildrens.org,Children's Hospital,Academic Medical Center / Pediatric Specialty Hospital,high,Office of Population Health focus at major children's hospital system
+RWJBarnabas Health,https://www.rwjbh.org,rwjbh.org,Hospital System,Regional Health System,medium,New Jersey academic health system including Jersey City Medical Center with population health focus
+Georgetown University Medical Center,https://gumc.georgetown.edu,georgetown.edu,Academic Hospital,Academic Health System / Teaching Hospital,high,Catholic academic medical center and MedStar Health partner
+Children's Hospital at Montefiore,https://www.cham.org,cham.org,Children's Hospital,Academic Children's Hospital,high,Community and Population Health expertise within Montefiore system in Bronx NY
+Seattle Children's,https://www.seattlechildrens.org,seattlechildrens.org,Children's Hospital,Pediatric Academic Medical Center,high,Top-ranked children's hospital with foundation and research institute
+Boston Children's Hospital,https://www.childrenshospital.org,childrenshospital.org,Children's Hospital,Academic Pediatric Medical Center,high,Major academic children's hospital focused on improving health and well-being
+NYU Langone Health,https://med.nyu.edu,nyulangone.org,Academic Hospital,Academic Health System,high,Department of Population Health at major NYC academic medical center
+Lurie Children's Hospital,https://research.luriechildrens.org,luriechildrens.org,Children's Hospital,Academic Pediatric Medical Center,high,Stanley Manne Children's Research Institute with child health outcomes focus
+University of Mississippi Medical Center,https://umc.edu,umc.edu,Academic Hospital,Academic Health System / Teaching Hospital,high,John D. Bower School of Population Health
+Cheyenne Regional Medical Center,https://www.cheyenneregional.org,cheyenneregional.org,Regional Health System,Community Health System / Regional Medical Center,high,Wyoming Institute of Population Health and population health management focus
+Cedar Hill Regional Medical Center,https://strategicplan.gwu.edu,gwu.edu,Regional Health System,Community/Regional Medical Center,medium,Population Health and Health Equity strategic plan with George Washington University affiliation
+Mount Sinai Health System,https://www.mountsinai.org,mountsinai.org,Hospital System,Academic Health System / Integrated Delivery Network,high,Icahn School of Medicine including Mount Sinai Kravis Children's Hospital
+Penn Medicine,https://www.med.upenn.edu,pennmedicine.org,Academic Hospital,Academic Health System,high,University of Pennsylvania Perelman School of Medicine with Learning Health System Science
+Boston Medical Center,https://www.bmc.org,bmc.org,Academic Hospital,Safety-Net Hospital / Academic Medical Center,high,Population Health team focused on community care
+Arkansas Children's Hospital,https://www.archildrens.org,archildrens.org,Children's Hospital,Pediatric Hospital System,high,Research and foundation with multiple Arkansas locations
+Vanderbilt University Medical Center,https://www.vumc.org,vumc.org,Academic Hospital,Academic Health System,high,Vanderbilt Institute for Population and Public Health including children's hospital
+University of Utah Health,https://healthcare.utah.edu,healthcare.utah.edu,Academic Hospital,Academic Health System,high,Academic medical center with patient care education and research expertise
+Northwell Health,https://www.northwell.edu,northwell.edu,Hospital System,Integrated Delivery Network / Regional Health System,high,Tri-state NY health system with top-rated hospitals
+Penn State Health,https://www.pennstatehealth.org,pennstatehealth.org,Academic Hospital,Academic Medical Center / Health System,high,Pennsylvania academic health system
+Cedars-Sinai,https://www.cedars-sinai.edu,cedars-sinai.edu,Academic Hospital,Academic Medical Center,high,Los Angeles academic medical center
+Rush University System for Health,https://www.rush.edu,rush.edu,Academic Hospital,Academic Medical Center / Health System,high,Chicago academic medical center and health system
+Hackensack Meridian Health,https://www.hackensackmeridianhealth.org,hackensackmeridianhealth.org,Hospital System,Integrated Health System,high,Major New Jersey integrated health system
+Rutgers Health,https://www.rutgershealth.org,rutgershealth.org,Academic Hospital,Academic Health System,high,New Jersey academic health system
+Care New England Health System,https://www.carenewengland.org,carenewengland.org,Hospital System,Integrated Health System,high,Rhode Island integrated health system
+Valley Health System,https://www.valleyhealth.com,valleyhealth.com,Regional Health System,Regional Health System,high,New Jersey regional health system
+Atrium Health,https://www.atriumhealth.org,atriumhealth.org,Hospital System,Integrated Health System,high,Charlotte NC integrated health system
+NewYork-Presbyterian,https://www.nyp.org,nyp.org,Academic Hospital,Academic Medical Center / Hospital System,high,Morgan Stanley Children's Hospital integrated with Columbia and Weill Cornell
+Mayo Clinic,https://www.mayoclinic.org,mayoclinic.org,Academic Hospital,Academic Medical Center / Health System,high,Major multi-state academic health system and research enterprise
+Rady Children's Health,https://www.rchsd.org,rechsd.org,Children's Hospital,Pediatric Academic Hospital,high,San Diego pediatric academic hospital with research institute
+MaineHealth,https://www.mainehealth.org,mainehealth.org,Hospital System,Academic Medical Center,high,Maine Medical Center is only academic medical center in Maine
+UT Southwestern Medical Center,https://www.utsouthwestern.edu,utsouthwestern.edu,Academic Hospital,Academic Medical Center,high,Dallas TX academic medical center with children's hospital
+Mass General Brigham,https://www.massgeneralbrigham.org,massgeneralbrigham.org,Hospital System,Integrated Academic Health System,high,One of largest hospital system-based research enterprises in Massachusetts
+UC San Diego Health,https://health.ucsd.edu,health.ucsd.edu,Academic Hospital,Academic Medical Center,high,San Diego academic medical center
+Harris Health,https://www.harrishealth.org,harrishealth.org,Hospital System,Public Health System,high,Houston public health system with population health and 1115 Waiver focus
+Augusta Health,https://www.augustahealth.com › service › population-health,augustahealth.com,Regional Health System,Community Health System,high,Population health team at Fishersville VA community health system
+Children's Hospital Research Institute of Manitoba,https://www.chrim.ca,chrim.ca,Children's Hospital,Pediatric Academic Hospital,high,Canadian children's hospital research institute
+UF Health,https://www.ufhealth.org,ufhealth.org,Academic Hospital,Academic Hospital System,high,University of Florida Health academic medical center with public health focus
+Nemours Children's Health,https://www.nemours.org,nemours.org,Children's Hospital,Pediatric Health System,high,National pediatric health system with research partnerships across multiple states
+Henry Ford Health,https://www.henryford.com,henryford.com,Hospital System,Integrated Delivery Network,high,Detroit MI integrated health system with major research enterprise
+Lehigh Valley Health Network,https://www.lvhn.org,lvhn.org,Hospital System,Regional Health Network,high,Pennsylvania regional health network including Reilly Children's Hospital
+Flushing Hospital Medical Center,https://www.flushinghospital.org,flushinghospital.org,Regional Health System,Community Hospital,high,Queens NY community hospital serving since 1884
+UNM Health System,https://www.unmhealth.com,unmhealth.com,Academic Hospital,Academic Medical Center,high,Albuquerque NM teaching hospital system including UNM Children's Hospital and Cancer Center
+Baystate Health,https://www.baystatehealth.org,baystatehealth.org,Hospital System,Regional Health System,high,Massachusetts regional health system and academic medical center
+Denver Health,https://www.denverhealth.org,denverhealth.org,Hospital System,Public Hospital System,high,Denver public hospital system including Denver Health Hospital and Clinics
+Beacon Health System,https://www.beaconhealthsystem.org,beaconhealthsystem.org,Regional Health System,Regional Health System,high,Indiana regional health system including Memorial Hospital of South Bend
+Novant Health,https://www.novanthealth.org,novanthealth.org,Hospital System,Regional Health System,high,Southeast regional health system with clinical research focus
+Yale New Haven Health System,https://research-support.yale.edu,ynhhs.org,Hospital System,Academic Medical Center / Health System,high,Yale-affiliated integrated health system in Connecticut
+South Central Regional Medical Center,https://www.scrmc.com,scrmc.com,Regional Health System,Regional Medical Center,high,Mississippi regional medical center with population health programs
+Johns Hopkins Medicine,https://www.hopkinsmedicine.org,hopkinsmedicine.org,Academic Hospital,Academic Medical Center / Health System,high,Major academic medical center including Johns Hopkins Children's Center
+UW Health,https://www.uwhealth.org,uwhealth.org,Academic Hospital,Academic Medical Center / Health System,high,University of Wisconsin Hospitals and Clinics academic health system
+Mount Carmel Health,https://www.mountcarmelhealth.com,mountcarmelhealth.com,Regional Health System,Regional Health System,high,Ohio regional health system including Mount Carmel Foundation
+Cambridge Health Alliance,https://www.challiance.org,challiance.org,Regional Health System,Public Teaching Hospital System,high,Massachusetts public teaching hospital system with population health management focus
+Atlantic Health,https://www.atlantichealth.org,atlantichealth.org,Hospital System,Regional Health System,high,New Jersey regional health system including Morristown Medical Center
+Sutter Health,https://www.sutterhealth.org,sutterhealth.org,Hospital System,Regional Health System,high,California not-for-profit regional health system with research focus
+Tampa General Hospital,https://www.tgh.org,tgh.org,Academic Hospital,Academic Medical Center,high,Primary teaching hospital for USF Health Morsani College of Medicine
+Virginia Mason Franciscan Health,https://www.vmfh.org,vmfh.org,Hospital System,Regional Health System,high,Seattle-area integrated health system including Virginia Mason Medical Center
+Children's Nebraska,https://www.childrensnebraska.org,childrensnebraska.org,Children's Hospital,Pediatric Hospital System,high,Only full-service pediatric hospital in Nebraska
+Marshfield Clinic Health System,https://www.marshfieldclinic.org,marshfieldclinic.org,Hospital System,Regional Health System,high,Wisconsin regional health system including Medical Center in Weston
+Saint Alphonsus Health System,https://www.saintalphonsus.org,saintalphonsus.org,Hospital System,Regional Catholic Health System,high,Catholic faith-based not-for-profit system serving Idaho eastern Oregon and northern Montana
+Wooster Community Hospital,https://www.woosterhospital.org,woosterhospital.org,Regional Health System,Community Hospital,medium,Independent community hospital serving Wayne County Ohio area
