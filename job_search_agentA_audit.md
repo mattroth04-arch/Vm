@@ -3,7 +3,7 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 40 / 240
+- **Employers processed:** 50 / 240
 - **Matching remote jobs found:** 19
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
@@ -53,4 +53,14 @@
 | 37 | Aidoc | n/a | no | 0 | n/a | Not searched. |
 | 38 | Aim | n/a | no | 0 | n/a | Not searched. |
 | 39 | AIR Federal | yes | yes | 10 | https://www.air.org/careers | 10 remote US research/policy roles; MD roles excluded. |
-| 40 | Akima | n/a | no | 0 | n/a | Not searched. |
+| 40 | Akima | n/a | no | 0 | n/a | Not searched (retry failed). |
+| 41 | Alabama Department of Health | no | no | 0 | https://personnel.alabama.gov/ | Redirects; no searchable database. |
+| 42 | Alabama Department of Public Health | no | yes | 0 | https://www.alabamapublichealth.gov/employment/opportunities.html | Static job list; no keyword search. |
+| 43 | Alaska Department of Health | yes | yes | 0 | https://www.governmentjobs.com/careers/alaska | All 8 terms searched; 0 remote US. |
+| 44 | Albert Einstein College of Medicine | n/a | no | 0 | https://jobs.einsteinmed.edu/ | Not accessed. |
+| 45 | Alberta Health Services | n/a | no | 0 | https://www.albertahealthservices.ca | Not accessed (Canada). |
+| 46 | Alcanza Clinical Research | n/a | no | 0 | https://alcanzaclinical.personio.com | Not accessed. |
+| 47 | Aledade | n/a | no | 0 | https://aledade.com/careers | Not accessed. |
+| 48 | Alexion | n/a | no | 0 | https://www.alexion.com | Not accessed. |
+| 49 | Alignment Health | n/a | no | 0 | https://www.alignmenthealth.com/careers | Not accessed. |
+| 50 | Alignment Health Plan | n/a | no | 0 | https://www.alignmenthealthplan.com | Not accessed. |
