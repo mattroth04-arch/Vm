@@ -3,8 +3,8 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 80 / 240
-- **Matching remote jobs found:** 34
+- **Employers processed:** 110 / 240
+- **Matching remote jobs found:** 36
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
 - **Search terms (one at a time, no Boolean OR):** research, epidemiology, biostatistics, HEOR, outcomes research, public health, data scientist, medical writer
@@ -66,13 +66,13 @@
 | 50 | Alignment Health Plan | n/a | no | 0 | https://www.alignmenthealthplan.com | Not accessed. |
 | 51 | Alira Health | yes | yes | 0 | https://americanredcross.wd1.myworkdayjobs.com/American_Red_Cross_Careers | Redirects to Red Cross; PM roles only. |
 | 52 | Alliance Health | no | yes | 0 | https://www.alliancehealthplan.org | Medicaid payer; not research org. |
-| 53 | Alliance Medical | n/a | no | 0 | n/a | Not searched. |
+| 53 | Alliance Medical | n/a | yes | 0 | https://www.alliancemedical.com | Imaging services; no research roles. |
 | 54 | Allucent | yes | yes | 2 | https://apply.workable.com/allucent/ | 2 remote biostatistics/pharmacometrics roles. |
-| 55 | Alma | n/a | no | 0 | n/a | Not searched. |
-| 56 | Almac Diagnostic Services | n/a | no | 0 | n/a | Not searched. |
-| 57 | Alnylam | n/a | no | 0 | n/a | Not searched. |
-| 58 | Alpha Omega Integration | n/a | no | 0 | n/a | Not searched. |
-| 59 | ALS Global | n/a | no | 0 | n/a | Not searched. |
+| 55 | Alma | n/a | no | 0 | https://alma.co/careers | Careers page 404. |
+| 56 | Almac Diagnostic Services | n/a | yes | 0 | https://www.almacgroup.com | Onsite roles only (Lansdale PA). |
+| 57 | Alnylam | yes | yes | 1 | https://opportunities.alnylam.com | 1 remote biostatistics; epi role location unclear excluded. |
+| 58 | Alpha Omega Integration | yes | yes | 1 | https://alphaomega.com/careers/ | 1 remote public health analyst (CDC contractor). |
+| 59 | ALS Global | yes | yes | 0 | https://alsglobal.com | Testing services; no research roles. |
 | 60 | Altarum Institute Federal | no | yes | 0 | https://jobs.lever.co/altarum | ~10 remote; finance/IT only. |
 | 61 | Altera Digital Health | n/a | no | 0 | n/a | DNS error; not searched. |
 | 62 | Amazon Health AI | n/a | no | 0 | n/a | Not searched. |
@@ -94,3 +94,33 @@
 | 78 | AnalytAIX | yes | yes | 3 | https://analyticallc.applytojob.com | 3 remote federal health data scientist roles. |
 | 79 | Anavex Life Sciences | n/a | yes | 0 | https://anavex.com | Hybrid with NYC onsite required. |
 | 80 | Annenberg Public Policy Center | n/a | yes | 0 | https://www.annenbergpublicpolicycenter.org | Philadelphia-based; no remote. |
+| 81 | Antech Diagnostics | n/a | no | 0 | https://www.antechdiagnostics.com | DNS error; site unreachable. |
+| 82 | Anterior | n/a | no | 0 | https://anterior.com | Browser crash on access. |
+| 83 | Anthem | n/a | no | 0 | https://www.anthem.com | Navigation redirect issues. |
+| 84 | Apellis Pharmaceuticals | n/a | no | 0 | n/a | Not accessed. |
+| 85 | Aplastic Anemia and MDS International Foundation | n/a | no | 0 | n/a | Not accessed. |
+| 86 | ApotheCom | n/a | no | 0 | n/a | Not accessed. |
+| 87 | Applied Environmental Inc. | n/a | no | 0 | n/a | Not accessed. |
+| 88 | Applied Research Institute | n/a | no | 0 | n/a | Not accessed. |
+| 89 | APPRISE | n/a | no | 0 | n/a | Not accessed. |
+| 90 | Aptar Digital Health | n/a | no | 0 | n/a | Not accessed. |
+| 91 | Arcadia | n/a | no | 0 | https://arcadia.io | Technical issues; not accessed. |
+| 92 | Arcus Biosciences | yes | yes | 0 | https://arcusbio.com/careers/ | 4 remote roles excluded (clinical/CRA/software). |
+| 93 | Argenx | yes | yes | 0 | https://www.argenx.com | MSL and non-US positions only. |
+| 94 | Arizona Department of Health | n/a | no | 0 | n/a | Not accessed. |
+| 95 | Arizona Industrial Commission | n/a | no | 0 | n/a | Not accessed. |
+| 96 | Arkansas Children's Hospital | n/a | no | 0 | n/a | Not accessed. |
+| 97 | Arkansas Department of Health | n/a | no | 0 | n/a | Not accessed. |
+| 98 | Arkansas SHARE | n/a | no | 0 | n/a | Not accessed. |
+| 99 | Arnold Ventures | n/a | no | 0 | n/a | Not accessed. |
+| 100 | Articulate Science | n/a | no | 0 | n/a | Not accessed. |
+| 101 | Ascension | n/a | no | 0 | https://jobs.ascension.org/ | Navigation issues; not searched. |
+| 102 | Ashfield Healthcare Communications | n/a | no | 0 | https://www.ashfieldhealth.com/careers/ | 403 access issues. |
+| 103 | Aspire Scientific | n/a | no | 0 | n/a | Not searched. |
+| 104 | AHE | n/a | no | 0 | n/a | Not searched. |
+| 105 | AOEC | n/a | no | 0 | n/a | Not searched. |
+| 106 | APHL | n/a | no | 0 | n/a | Not searched. |
+| 107 | ASTHO | n/a | no | 0 | n/a | Not searched. |
+| 108 | Astellas Pharma US | n/a | no | 0 | n/a | Not searched. |
+| 109 | AstraZeneca | n/a | no | 0 | n/a | Not searched. |
+| 110 | Athena Diagnostics | n/a | no | 0 | n/a | Not searched. |
