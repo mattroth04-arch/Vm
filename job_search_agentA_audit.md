@@ -3,8 +3,8 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Branch:** `cursor/employer-universe-merge-d967`
 - **Employers in queue:** 240
-- **Employers processed:** 50 / 240
-- **Matching remote jobs found:** 19
+- **Employers processed:** 80 / 240
+- **Matching remote jobs found:** 34
 - **Last updated (UTC):** 2026-06-22
 - **Browser:** VM computerUse (visible browser)
 - **Search terms (one at a time, no Boolean OR):** research, epidemiology, biostatistics, HEOR, outcomes research, public health, data scientist, medical writer
@@ -64,3 +64,33 @@
 | 48 | Alexion | n/a | no | 0 | https://www.alexion.com | Not accessed. |
 | 49 | Alignment Health | n/a | no | 0 | https://www.alignmenthealth.com/careers | Not accessed. |
 | 50 | Alignment Health Plan | n/a | no | 0 | https://www.alignmenthealthplan.com | Not accessed. |
+| 51 | Alira Health | yes | yes | 0 | https://americanredcross.wd1.myworkdayjobs.com/American_Red_Cross_Careers | Redirects to Red Cross; PM roles only. |
+| 52 | Alliance Health | no | yes | 0 | https://www.alliancehealthplan.org | Medicaid payer; not research org. |
+| 53 | Alliance Medical | n/a | no | 0 | n/a | Not searched. |
+| 54 | Allucent | yes | yes | 2 | https://apply.workable.com/allucent/ | 2 remote biostatistics/pharmacometrics roles. |
+| 55 | Alma | n/a | no | 0 | n/a | Not searched. |
+| 56 | Almac Diagnostic Services | n/a | no | 0 | n/a | Not searched. |
+| 57 | Alnylam | n/a | no | 0 | n/a | Not searched. |
+| 58 | Alpha Omega Integration | n/a | no | 0 | n/a | Not searched. |
+| 59 | ALS Global | n/a | no | 0 | n/a | Not searched. |
+| 60 | Altarum Institute Federal | no | yes | 0 | https://jobs.lever.co/altarum | ~10 remote; finance/IT only. |
+| 61 | Altera Digital Health | n/a | no | 0 | n/a | DNS error; not searched. |
+| 62 | Amazon Health AI | n/a | no | 0 | n/a | Not searched. |
+| 63 | Ambience Healthcare | n/a | no | 0 | n/a | Not searched. |
+| 64 | Ambient Clinical Analytics | n/a | no | 0 | n/a | Not searched. |
+| 65 | Amentum | n/a | no | 0 | n/a | Not searched. |
+| 66 | ACOEM | n/a | no | 0 | n/a | Not searched. |
+| 67 | ACGIH | n/a | no | 0 | n/a | Not searched. |
+| 68 | American Enterprise Institute Health | n/a | no | 0 | n/a | Not searched. |
+| 69 | AIHA | n/a | no | 0 | n/a | Not searched. |
+| 70 | American Public Health Association | n/a | no | 0 | n/a | Not searched. |
+| 71 | American Red Cross | yes | yes | 0 | https://americanredcross.wd1.myworkdayjobs.com | No research/analytics remote roles. |
+| 72 | Amgen | yes | yes | 5 | https://careers.amgen.com | 5 remote HEOR/epi/biostat roles; Director excluded. |
+| 73 | Amicus Therapeutics | n/a | yes | 0 | https://www.amicusrx.com | On-site/hybrid only. |
+| 74 | Amneal Pharmaceuticals | n/a | yes | 0 | https://amneal.com/careers/ | Bridgewater NJ onsite/hybrid. |
+| 75 | Amplify | n/a | yes | 3 | https://amplify.com/medical-communications | 3 remote medical writer roles via agency network. |
+| 76 | Amwell | yes | yes | 1 | https://business.amwell.com/about-us/careers/jobs | 1 remote data scientist; exec/architect excluded. |
+| 77 | Analysis Group | yes | yes | 0 | https://www.analysisgroup.com | Hybrid only (3 days in office). |
+| 78 | AnalytAIX | yes | yes | 3 | https://analyticallc.applytojob.com | 3 remote federal health data scientist roles. |
+| 79 | Anavex Life Sciences | n/a | yes | 0 | https://anavex.com | Hybrid with NYC onsite required. |
+| 80 | Annenberg Public Policy Center | n/a | yes | 0 | https://www.annenbergpublicpolicycenter.org | Philadelphia-based; no remote. |
