@@ -1,0 +1,68 @@
+organization,url,domain,organization_type,specialty,confidence,notes
+World Health Organization (WHO),https://www.who.int,who.int,Global Health,UN agency coordinating international public health policy and response,High,Multilateral UN health agency
+Global Health Council,https://globalhealth.org,globalhealth.org,Global Health,Advocacy for equitable and sustainable global health policies,High,Policy and advocacy organization
+CDC Global Health Center,https://www.cdc.gov/global-health,cdc.gov,Global Health,US government global health programs and disease response,High,US federal global health center
+TEPHINET,https://www.tephinet.org,tephinet.org,Global Health,Field epidemiology training program network,Medium,Network of FETP programs worldwide
+Child Family Health International,https://www.cfhi.org,cfhi.org,Global Health,Ethical global health education and training,Medium,Education-focused global health nonprofit
+International SOS,https://www.internationalsos.com,internationalsos.com,Global Health,International health and security risk management,Medium,Corporate health services for mobile workforces
+IANPHI,https://www.ianphi.org,ianphi.org,Global Health,Strengthening national public health institutes,High,Network of national public health institutes
+Global Health International,https://globalhealthinternational.org,globalhealthinternational.org,Global Health,Independent medical services in challenging environments,Medium,Medical service NGO
+International Vaccine Institute,https://www.ivi.int,ivi.int,Global Health,Vaccine research and delivery in developing countries,High,International vaccine research organization
+Gavi the Vaccine Alliance,https://www.gavi.org,gavi.org,Global Health,Vaccine access and immunization systems strengthening,High,Public-private vaccine alliance
+UN Foundation,https://unfoundation.org,unfoundation.org,Global Health,UN partnership on sustainable development and global health,High,Philanthropic foundation supporting UN health priorities
+UNFPA,https://www.unfpa.org,unfpa.org,Global Health,Reproductive health and maternal health,High,UN sexual and reproductive health agency
+International Diabetes Federation,https://www.idf.org,idf.org,Global Health,Diabetes prevention care and advocacy worldwide,High,Global diabetes federation
+World Heart Federation,https://www.worldheart.org,worldheart.org,Global Health,Cardiovascular disease prevention and advocacy,High,Global cardiovascular health NGO
+Global Climate and Health Alliance,https://climateandhealthalliance.org,climateandhealthalliance.org,Global Health,Climate change and health policy linkage,High,International climate-health advocacy alliance
+UICC,https://www.uicc.org,uicc.org,Global Health,Global cancer control and prevention,High,Union for International Cancer Control
+ProMED,https://www.promedmail.org,promedmail.org,Global Health,Infectious disease outbreak early warning surveillance,High,Global emerging disease surveillance network
+GHS Index,https://www.ghsindex.org,ghsindex.org,Global Health,Epidemic and pandemic preparedness assessment,High,Global Health Security Index research initiative
+IPPF,https://www.ippf.org,ippf.org,International NGO,Sexual and reproductive health and rights,High,International Planned Parenthood Federation
+Plan International,https://www.plan-international.org,plan-international.org,International NGO,Children's rights and health programming in 80+ countries,Medium,International child-focused development NGO
+Save the Children International,https://www.savethechildren.net,savethechildren.net,International NGO,Child welfare maternal and child health humanitarian aid,High,Major international child welfare NGO
+CARE,https://www.care.org,care.org,International NGO,International humanitarian and development poverty relief,High,International humanitarian and development NGO
+The Borgen Project,https://borgenproject.org,borgenproject.org,International NGO,Global poverty and health policy advocacy,Medium,Development advocacy organization
+International Medical Corps,https://internationalmedicalcorps.org,internationalmedicalcorps.org,Humanitarian Health,Emergency medical response in conflict and disaster,High,Humanitarian health emergency response NGO
+IFRC,https://www.ifrc.org,ifrc.org,Humanitarian Health,Red Cross and Red Crescent humanitarian health network,High,World's largest humanitarian network
+ICRC,https://www.icrc.org,icrc.org,Humanitarian Health,Neutral humanitarian health action in conflict zones,High,International Committee of the Red Cross
+IOM,https://www.iom.int,iom.int,Humanitarian Health,Migration health and humanitarian response,High,UN International Organization for Migration
+International Rescue Committee,https://www.rescue.org,rescue.org,Humanitarian Health,Humanitarian aid and health services in crisis zones,High,Major humanitarian health and refugee services NGO
+Médecins du Monde,https://www.medecinsdumonde.org,medecinsdumonde.org,Humanitarian Health,Medical care for vulnerable populations affected by crisis,High,Doctors of the World international medical NGO
+American Red Cross,https://www.redcross.org,redcross.org,Humanitarian Health,Disaster response and international health services,High,US Red Cross with global disaster health programs
+MAP International,https://www.map.org,map.org,Humanitarian Health,Medicine and health supply distribution globally,High,Medicine for All People distribution NGO
+World Vision International,https://www.wvi.org,wvi.org,Humanitarian Health,Relief development and child health programs,High,Christian humanitarian relief organization
+Medical Teams International,https://www.medicalteams.org,medicalteams.org,Humanitarian Health,Faith-based humanitarian care for refugees and disasters,High,Humanitarian health for displaced populations
+Helen Keller International,https://www.helenkellerintl.org,helenkellerintl.org,Humanitarian Health,Nutrition vision and neglected tropical disease programs,High,Health care for vulnerable families globally
+MedShare International,https://www.medshare.org,medshare.org,Humanitarian Health,Medical supply donation to developing countries,High,Medical surplus redistribution NGO
+IAVI,https://www.iavi.org,iavi.org,Infectious Disease,HIV and emerging infectious disease vaccine research,High,International AIDS Vaccine Initiative
+Encephalitis International,https://www.encephalitis.info,encephalitis.info,Infectious Disease,Brain inflammation and encephalitis advocacy and support,High,Specialized infectious disease nonprofit
+ISHAM,https://www.isham.org,isham.org,Infectious Disease,Fungal disease research and medical mycology,High,International Society for Human and Animal Mycology
+RTI International,https://www.rti.org,rti.org,Implementation Science,Independent research institute with global health programs,High,Major implementation science and research institute
+International Research Institute for Climate and Society,https://iri.columbia.edu,iri.columbia.edu,International Research,Climate and society research with health applications,Medium,Columbia University climate research institute
+SRI International,https://www.sri.com,sri.com,International Research,Nonprofit R&D with biomedical and health programs,Medium,Broad research institute with health portfolio
+IPUMS International,https://international.ipums.org,ipums.org,International Research,International census and demographic health data,High,Population and health demographic data repository
+Fogarty International Center,https://www.fic.nih.gov,fic.nih.gov,International Research,NIH global health research and capacity building,High,US NIH global health research center
+UNU International Institute for Global Health,https://unu.edu/iigh,unu.edu,International Research,Global health inequalities research and capacity building,High,UN University global health research institute
+CIESIN Columbia University,https://ciesin.columbia.edu,ciesin.columbia.edu,International Research,Population migration and geospatial health data,High,Center for population and environmental health data
+CGIAR,https://www.cgiar.org,cgiar.org,International Research,Food security nutrition and climate adaptation research,High,Global agricultural research partnership with health implications
+Human Frontier Science Program,https://www.hfsp.org,hfsp.org,International Research,International basic biomedical research collaboration,High,Cross-border life sciences research funding organization
+CABI,https://www.cabi.org,cabi.org,International Research,Agriculture environment and global health information,High,Intergovernmental development and health information NGO
+IITA,https://www.iita.org,iita.org,International Research,Tropical agriculture nutrition and food security,Medium,International Institute of Tropical Agriculture
+ICRW,https://www.icrw.org,icrw.org,International Research,Gender equity research with health components,Medium,International Center for Research on Women
+IntraHealth International,https://www.intrahealth.org,intrahealth.org,Health Systems Strengthening,Health workforce development and health systems governance,High,Health systems strengthening specialist NGO
+PATH,https://www.path.org,path.org,Implementation Science,Health systems innovation epidemic response and digital health,High,Major global health systems innovation organization
+Joint Commission International,https://www.jointcommissioninternational.org,jointcommissioninternational.org,Health Systems Strengthening,International healthcare accreditation and quality standards,Medium,Healthcare quality and accreditation standards body
+IHE International,https://www.ihe.net,ihe.net,Health Systems Strengthening,Healthcare IT interoperability standards,Medium,Health information exchange standards initiative
+Global Healthcare Accreditation,https://www.globalhealthcareaccreditation.com,globalhealthcareaccreditation.com,Health Systems Strengthening,Medical travel and international healthcare accreditation,High,Healthcare accreditation for medical tourism
+Chemonics International,https://www.chemonics.com,chemonics.com,Implementation Science,International development health contractor,High,USAID and donor health systems implementation contractor
+CIOMS,https://www.cioms.ch,cioms.ch,Other,International medical research ethics and standards,High,Council for International Organizations of Medical Sciences
+IMVA,https://www.imva.org,imva.org,Other,International medical volunteer network,High,International Medical Volunteers Association
+ISTM,https://www.istm.org,istm.org,Other,Travel medicine professional society,High,International Society of Travel Medicine
+ICN,https://www.icn.ch,icn.ch,Other,Global nursing workforce representation,High,International Council of Nurses
+SNOMED International,https://www.snomed.org,snomed.org,Other,Global clinical health terminology standards,High,Health terminology standards organization
+Commonwealth Fund,https://www.commonwealthfund.org,commonwealthfund.org,Other,Health care systems policy research foundation,High,Private US health policy research foundation
+Global Health Dynamics,https://www.globalhealthdynamics.co.uk,globalhealthdynamics.co.uk,Other,Multi-sector global health consulting and research,Medium,UK-based global health contractor
+Humdata,https://data.humdata.org,humdata.org,Other,Humanitarian data platform for health emergencies,Medium,OCHA humanitarian open data platform
+Lions Clubs International,https://www.lionsclubs.org,lionsclubs.org,Other,Community service with vision and diabetes health programs,Medium,Service organization with health programming
+ILO,https://www.ilo.org,ilo.org,Other,Occupational health and labor rights,Medium,UN labor agency with occupational health mandate
+ITCILO,https://www.itcilo.org,itcilo.org,Other,ILO training center including health workforce programs,Medium,International Training Centre of the ILO
