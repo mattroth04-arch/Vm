@@ -1,0 +1,59 @@
+organization,visible_url,domain,organization_type,specialty,confidence,notes
+Epic Systems,https://www.epic.com,epic.com,EHR,Comprehensive electronic health record software platform,High,Major EHR vendor
+Civitas Networks for Health,https://www.civitasforhealth.org,civitasforhealth.org,HIE,Health information exchange facilitating secure clinical data sharing,High,Regional and national HIE network organization
+Camden Coalition,https://www.camdenhealth.org,camdenhealth.org,HIE,Health information exchange and care coordination for complex patients,Medium,Community-based HIE and care management organization
+Contexture,https://www.contexture.org,contexture.org,HIE,Regional health information exchange enabling delivery of health information,High,Multi-state regional HIE
+Oracle Health,https://www.oracle.com/health/,oracle.com,EHR,Enterprise EHR and healthcare cloud applications (formerly Cerner),High,Major EHR vendor and health IT platform
+MEDITECH,https://ehr.meditech.com,ehr.meditech.com,EHR,Electronic health record platform unifying clinical and operational data,High,Established acute and ambulatory EHR vendor
+Independence Health System,https://www.independence-health.org,independence-health.org,HIE,Health information exchange allowing secure patient data access,Medium,Health system operating HIE services
+IQVIA,https://www.iqvia.com,iqvia.com,Clinical Data Platform,Healthcare data technology analytics and clinical research platforms,High,Major healthcare data and analytics company
+The SSI Group,https://www.thessigroup.com,thessigroup.com,Healthcare Software,Revenue cycle management eligibility verification and EHR integrations,High,Healthcare IT services and software vendor
+Trenton Health Team,https://www.trentonhealthteam.org,trentonhealthteam.org,HIE,Regional health information exchange database for medical information sharing,High,Regional HIE organization
+ClinicalConnect HIE,https://www.clinicalconnecthie.com,clinicalconnecthie.com,HIE,Secure health information exchange for regional healthcare provider networks,High,Regional HIE serving Western Pennsylvania
+Orion Health,https://www.orionhealth.com,orionhealth.com,Interoperability,Health information exchange platform for unified health data and insights,High,Global health IT interoperability vendor
+CRISP,https://www.crisphealth.org,crisphealth.org,HIE,State-designated health information exchange and health data utility,High,Maryland statewide HIE
+ChartSwap,https://www.chartswap.com,chartswap.com,HIE,Platform for electronic health record request and release management,High,HIE and medical records exchange platform
+Synapse Health,https://equip.synapsehealth.com,equip.synapsehealth.com,Health IT,Patient data integration and healthcare connectivity solutions,High,Healthcare data integration platform
+1st Providers Choice,https://www.1stproviderschoice.com,1stproviderschoice.com,Healthcare Software,EHR and practice management with health information exchange capabilities,High,Ambulatory EHR and HIE services vendor
+Healthix,https://www.healthix.org,healthix.org,HIE,Public health information exchange serving New York region,High,Large regional HIE in New York
+MDinteractive,https://www.mdinteractive.com,mdinteractive.com,Healthcare Software,Health information exchange bi-directional exchange and quality reporting,High,HIE and quality reporting software vendor
+Florida HIE Services,https://www.florida-hie.net,florida-hie.net,HIE,Florida health information exchange for statewide clinical data sharing,High,State-level HIE organization
+Metriport,https://www.metriport.com,metriport.com,FHIR,FHIR-native medical API for patient data aggregation and interoperability,High,Modern FHIR interoperability platform
+Indiana Health Information Exchange,https://www.ihie.org,ihie.org,HIE,Indiana statewide health information exchange for secure data sharing,High,State-level HIE serving Indiana
+Tampa Bay Health Information Exchange,https://www.moffitt.org,tampabayhie.org,HIE,Regional health information exchange for protected health information sharing,Medium,Regional HIE associated with Tampa Bay healthcare network
+Datavant,https://www.datavant.com,datavant.com,Health IT,Healthcare data connectivity privacy-preserving record linkage and exchange,High,Healthcare data infrastructure and connectivity platform
+JetBase,https://www.jetbase.io,jetbase.io,Healthcare Software,Health information exchange software for faster clinical data processing,High,HIE software platform
+Azalea Health,https://www.azaleahealth.com,azaleahealth.com,EHR,Cloud-based EHR with health information exchange and interoperability,High,Ambulatory and rural health EHR vendor
+ScienceSoft,https://www.scnsoft.com,scnsoft.com,Healthcare Software,Health information exchange portal development and multi-source data integration,Medium,IT consulting firm with HIE software solutions
+Virginia Health Information,https://www.vhi.org,vhi.org,HIE,Virginia statewide health information exchange for secure clinical data sharing,High,Virginia state-designated HIE
+Health Gorilla,https://www.healthgorilla.com,healthgorilla.com,Interoperability,National health data network and clinical data aggregation platform,High,Healthcare interoperability and data network
+UHIN,https://www.uhin.org,uhin.org,HIE,Utah Health Information Network for statewide clinical data exchange,High,Utah statewide HIE
+Decipher,https://www.deciphergenomics.org,deciphergenomics.org,Clinical Data Platform,Clinical genome database for sharing and comparing human genome variants,High,Genomic and clinical data platform
+OpenHIE,https://www.ohie.org,ohie.org,Interoperability,Open health information exchange framework and global health interoperability community,High,Open-source HIE standards organization
+NextGen Healthcare,https://www.nextgen.com,nextgen.com,EHR,Cloud EHR and practice management for specialty and ambulatory practices,High,Established ambulatory EHR vendor
+Hawaii Health Information Exchange,https://www.hawaiihie.org,hawaiihie.org,HIE,Hawaii statewide health information exchange for provider data sharing,High,Hawaii state-level HIE
+Osplabs,https://www.osplabs.com,osplabs.com,Healthcare Software,Health information exchange software for secure data sharing and EHR integration,High,HIE and healthcare software vendor
+Edenlab,https://www.edenlab.io,edenlab.io,FHIR,FHIR-based health information exchange software development,High,HIE and FHIR software development company
+Providence Health Information Exchange,https://www.provshare.org,provshare.org,HIE,Regional HIE connecting 50+ EMR systems for comprehensive patient records,High,Regional HIE serving Providence health network
+Telstra Health,https://www.telstrahealth.com,telstrahealth.com,FHIR,FHIR-native data platform and health information exchange,High,Australia-based FHIR and HIE technology company
+OCHIN,https://www.ochin.org,ochin.org,HIE,Nonprofit health information network providing HIE capabilities to community health centers,High,National nonprofit HIE network
+Cloudticity,https://www.cloudticity.com,cloudticity.com,Health IT,Cloud-based health information exchange and healthcare data platform on public cloud,High,Cloud HIE and healthcare data infrastructure
+InterSystems,https://www.intersystems.com,intersystems.com,Interoperability,HealthShare unified care record and healthcare interoperability platform,High,Major healthcare data management and interoperability vendor
+Verato,https://www.verato.com,verato.com,Health IT,Master data management cloud platform for patient matching and data integrity,High,Healthcare patient identity and MDM platform
+Inovalon,https://www.inovalon.com,inovalon.com,Clinical Data Platform,Data cloud for patient data with FHIR-based APIs and nationwide connectivity,High,Healthcare data platform and analytics company
+HI-BRIDGE Health Information Exchange,https://www.mainlinehi.org,mainlinehi.org,HIE,Electronic health information exchange for doctors nurses and pharmacists,High,Regional HIE serving Main Line Pennsylvania
+4Medica,https://www.4medica.com,4medica.com,Interoperability,Health information exchange and interoperability solutions for healthcare data sharing,High,HIE and interoperability technology vendor
+GRM Document Management,https://www.grmdocumentmanagement.com,grmdocumentmanagement.com,Healthcare Software,EHRConnect suite for patient data management and EHR consolidation,High,Healthcare document and EHR data management
+Mindbowser,https://www.mindbowser.com,mindbowser.com,Healthcare Software,Health information exchange software solutions for seamless patient data exchange,Medium,Healthcare IT software development firm
+PointClickCare,https://www.pointclickcare.com,pointclickcare.com,Healthcare Software,Long-term and post-acute care platform with HIE and care coordination,High,Leading LTPAC healthcare software vendor
+Centrivo Care,https://www.centrivocare.com,centrivocare.com,HIE,Health information exchange services and clinical data sharing,High,Regional HIE and healthcare services organization
+Lifepoint Informatics,https://www.lifepnt.com,lifepnt.com,Interoperability,Laboratory outreach connectivity EMR integration and clinical data exchange,High,Clinical data exchange and HIE integration vendor
+Agilify Health,https://www.agilifyhealth.com,agilifyhealth.com,HIE,Health information exchange solutions facilitating data exchange between practitioners,High,HIE solutions provider
+The Health Collaborative,https://www.healthcollab.org,healthcollab.org,HIE,Ohio health information exchange services provider,High,Ohio regional HIE organization
+Forum Systems,https://www.forumsys.com,forumsys.com,Interoperability,Modern health information exchange and secure electronic patient data transmission,High,Healthcare interoperability and API security vendor
+Smartlink Health Solutions,https://www.smartlinkhealth.com,smartlinkhealth.com,HIE,HIE and EHR integration for North Carolina health information exchange,High,Regional HIE and healthcare integration vendor
+Glorium Technologies,https://www.gloriumtech.com,gloriumtech.com,Healthcare Software,Health information exchange software development services,Medium,Healthcare IT software development consultancy
+SYNCRONYS,https://www.syncronys.org,syncronys.org,HIE,New Mexico designated health information exchange,High,New Mexico statewide HIE
+Arkansas SHARE,https://www.sharearkansas.com,sharearkansas.com,HIE,Arkansas state health information exchange for secure health data access,High,Arkansas statewide HIE
+Lewis & Clark Information Exchange,https://www.lacie-hie.com,lacie-hie.com,HIE,Health information exchange serving Kansas and Missouri,High,Regional HIE in Kansas and Missouri
+Outcome Healthcare,https://www.outcomehealthcare.com,outcomehealthcare.com,FHIR,HL7 FHIR compliant health information exchange platform for patient data download,High,FHIR-based HIE platform vendor
