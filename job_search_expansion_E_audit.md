@@ -10,6 +10,7 @@
 | Batch | Employers | Roles Found | Dead Sites | Duplicates Skipped | Notes |
 |-------|-----------|-------------|------------|-------------------|-------|
 | 1 (1-10) | 10 | 2 | 0 | 0 | Centene portal + Pearl Health yields |
+| 2 (11-20) | 10 | 0 | 2 | 1 | Pew hybrid excluded; 2 DNS dead sites |
 
 ## Employer Log
 
@@ -25,3 +26,13 @@
 | 8 | PerkinElmer (Revvity) | searchable | 0 | International/non-research remote only |
 | 9 | Perrigo | searchable | 0 | International/partially remote only |
 | 10 | Persivia | no_careers_page | 0 | No careers section |
+| 11 | Peterson Center on Healthcare | searchable | 0 | Policy role onsite hybrid only |
+| 12 | Peterson Health Technology Institute | searchable | 0 | NYC onsite assessment role |
+| 13 | Pew Charitable Trusts Health | searchable | 0 | Public Health Data hybrid DC - excluded hybrid-only |
+| 14 | PFIC Network | no_careers_page | 0 | Patient advocacy no careers |
+| 15 | Pfizer | searchable | 0 | 0 remote epidemiology results |
+| 16 | PHAB | dead | 0 | Careers URL 404 |
+| 17 | Pharmaceutical Institute | dead | 0 | DNS unreachable |
+| 18 | Pharmacom Media | dead | 0 | DNS unreachable |
+| 19 | PharPoint Research | searchable | 0 | Biostatistics onsite NC only |
+| 20 | Philadelphia Dept of Public Health | searchable | 0 | Municipal onsite typical |
