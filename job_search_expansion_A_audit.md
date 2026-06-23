@@ -4,9 +4,9 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Applied/dead tracker:** not present
 - **Employers in queue:** 240
-- **Employers processed:** 40 / 240
-- **Roles collected:** 23
-- **Roles excluded:** 95
+- **Employers processed:** 100 / 240
+- **Roles collected:** 39
+- **Roles excluded:** 120
 - **Browser:** VM computerUse only
 - **Search terms (one at a time):** data, analyst, research, health, quality, population, outcomes, HEOR, epidemiology, biostatistics, statistician, Medicaid, Medicare, writer, evidence, informatics, policy, RWE
 - **Agent:** expansion_A
@@ -55,3 +55,63 @@
 | 38 | Aim | no | 0 | 0 | n/a | Not searched. |
 | 39 | AIR Federal | yes | 2 | 0 | https://www.air.org/careers | Policy/survey research (via partner search). |
 | 40 | Akima | no | 0 | 0 | n/a | Not searched. |
+| 41 | Alabama Department of Health | no | 0 | 0 | https://personnel.alabama.gov/ | 404 / inaccessible. |
+| 42 | Alabama Department of Public Health | no | 0 | 0 | https://www.alabamapublichealth.gov | Site load failed. |
+| 43 | Alaska Department of Health | partial | 0 | 0 | https://www.governmentjobs.com/careers/alaska | Search redirect issues. |
+| 44 | Albert Einstein College of Medicine | no | 0 | 0 | https://jobs.einsteinmed.edu/ | DNS failure. |
+| 45 | Alberta Health Services | no | 0 | 0 | https://www.albertahealthservices.ca | Not searched. |
+| 46 | Alcanza Clinical Research | no | 0 | 0 | https://alcanzaclinical.personio.com | Not searched. |
+| 47 | Aledade | yes | 5 | 0 | https://aledade.com/careers | 5 remote quality/population/risk analyst roles. |
+| 48 | Alexion | no | 0 | 0 | https://www.alexion.com | Not searched. |
+| 49 | Alignment Health | no | 0 | 0 | https://www.alignmenthealth.com/careers | Not searched. |
+| 50 | Alignment Health Plan | no | 0 | 0 | https://www.alignmenthealthplan.com | Not searched. |
+| 51 | Alira Health | yes | 0 | 12 | https://harriscomputer.wd3.myworkdayjobs.com/Altera | India/international remote only. |
+| 52 | Alliance Health | yes | 0 | 2 | https://recruiting.ultipro.com/ALL1034ABHC | RN and SharePoint excluded. |
+| 53 | Alliance Medical | no | 0 | 0 | n/a | Careers 404. |
+| 54 | Allucent | yes | 4 | 0 | https://apply.workable.com/allucent/ | 4 remote biostatistics/pharmacometrics roles. |
+| 55 | Alma | no | 0 | 0 | n/a | Not searched. |
+| 56 | Almac Diagnostic Services | no | 0 | 0 | n/a | Not searched. |
+| 57 | Alnylam | yes | 2 | 1 | https://opportunities.alnylam.com | 2 remote quant/epi roles. |
+| 58 | Alpha Omega Integration | no | 0 | 0 | n/a | Not searched. |
+| 59 | ALS Global | no | 0 | 0 | n/a | Not searched. |
+| 60 | Altarum Institute Federal | no | 0 | 0 | n/a | Not searched. |
+| 61 | Altera Digital Health | yes | 0 | 0 | https://harriscomputer.wd3.myworkdayjobs.com/Altera | Portal accessed; no US analyst roles collected. |
+| 62 | Amazon Health AI | no | 0 | 0 | https://health.amazon.com | Marketing page only. |
+| 63 | Ambience Healthcare | no | 0 | 0 | n/a | Not searched. |
+| 64 | Ambient Clinical Analytics | no | 0 | 0 | n/a | Not searched. |
+| 65 | Amentum | no | 0 | 0 | n/a | Not searched. |
+| 66 | ACOEM | no | 0 | 0 | n/a | Professional org. |
+| 67 | ACGIH | no | 0 | 0 | n/a | Professional org. |
+| 68 | American Enterprise Institute Health | no | 0 | 0 | n/a | Not searched. |
+| 69 | AIHA | no | 0 | 0 | n/a | Professional org. |
+| 70 | American Public Health Association | no | 0 | 0 | n/a | Not searched. |
+| 71 | American Red Cross | no | 0 | 0 | n/a | Not searched. |
+| 72 | Amgen | yes | 5 | 0 | https://careers.amgen.com | 5 remote HEOR/epi/biostat/writing roles. |
+| 73 | Amicus Therapeutics | no | 0 | 0 | n/a | Not searched. |
+| 74 | Amneal Pharmaceuticals | no | 0 | 0 | n/a | Not searched. |
+| 75 | Amplify | no | 0 | 0 | n/a | Not searched. |
+| 76 | Amwell | no | 0 | 0 | n/a | Not searched. |
+| 77 | Analysis Group | yes | 0 | 3 | https://www.analysisgroup.com | Hybrid-only roles excluded. |
+| 78 | AnalytAIX | no | 0 | 0 | n/a | Not searched. |
+| 79 | Anavex Life Sciences | no | 0 | 0 | n/a | Not searched. |
+| 80 | Annenberg Public Policy Center | no | 0 | 0 | n/a | Not searched. |
+| 81 | Antech Diagnostics | yes | 0 | 0 | https://careers.antechdiagnostics.com | 23 remote found; titles not parsed. |
+| 82 | Anterior | no | 0 | 0 | https://anterior.com | Redirect/access issues. |
+| 83 | Anthem | yes | 0 | 0 | https://careers.elevancehealth.com | 2 remote; not detail-collected. |
+| 84 | Apellis Pharmaceuticals | partial | 0 | 0 | https://apellis.com/careers/open-positions/ | Remote roles visible; not parsed. |
+| 85 | AAMDS Foundation | no | 0 | 0 | n/a | Not searched. |
+| 86 | ApotheCom | no | 0 | 0 | n/a | Not searched. |
+| 87 | Applied Environmental Inc. | no | 0 | 0 | n/a | Not searched. |
+| 88 | Applied Research Institute | no | 0 | 0 | n/a | Not searched. |
+| 89 | APPRISE | no | 0 | 0 | n/a | Not searched. |
+| 90 | Aptar Digital Health | no | 0 | 0 | n/a | Not searched. |
+| 91 | Arcadia | no | 0 | 0 | n/a | Not searched. |
+| 92 | Arcus Biosciences | no | 0 | 0 | n/a | Not searched. |
+| 93 | Argenx | no | 0 | 0 | n/a | Not searched. |
+| 94 | Arizona Department of Health | no | 0 | 0 | n/a | Not searched. |
+| 95 | Arizona Industrial Commission | no | 0 | 0 | n/a | Not searched. |
+| 96 | Arkansas Children's Hospital | no | 0 | 0 | n/a | Not searched. |
+| 97 | Arkansas Department of Health | no | 0 | 0 | n/a | Not searched. |
+| 98 | Arkansas SHARE | no | 0 | 0 | n/a | Not searched. |
+| 99 | Arnold Ventures | no | 0 | 0 | n/a | Not searched. |
+| 100 | Articulate Science | no | 0 | 0 | n/a | Not searched. |
