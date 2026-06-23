@@ -4,9 +4,9 @@
 - **Queue:** `job_search_queue_A.csv`
 - **Applied/dead tracker:** not present
 - **Employers in queue:** 240
-- **Employers processed:** 10 / 240
-- **Roles collected:** 0
-- **Roles excluded:** 67
+- **Employers processed:** 40 / 240
+- **Roles collected:** 23
+- **Roles excluded:** 95
 - **Browser:** VM computerUse only
 - **Search terms (one at a time):** data, analyst, research, health, quality, population, outcomes, HEOR, epidemiology, biostatistics, statistician, Medicaid, Medicare, writer, evidence, informatics, policy, RWE
 - **Agent:** expansion_A
@@ -25,3 +25,33 @@
 | 8 | AbbVie | yes | 0 | 21 | https://careers.abbvie.com/en/jobs | epidemiology 21; commercial/intl; remote unclear. |
 | 9 | Abridge | no | 0 | 0 | https://www.abridge.com | Not searched (time). |
 | 10 | Abt Global Federal | partial | 0 | 0 | https://www.abtglobal.com/careers | Job search interface not reached. |
+| 11 | AcademyHealth | no | 0 | 0 | https://academyhealth.org | Browser navigation failed. |
+| 12 | Accenture | no | 0 | 0 | https://www.accenture.com | Not searched (navigation). |
+| 13 | Accolade | no | 0 | 0 | https://transcarent.com/careers | Not searched. |
+| 14 | Volcker Alliance ARC | no | 0 | 0 | https://www.volckeralliance.org | Not searched. |
+| 15 | Accuhealth | no | 0 | 0 | https://accuhealth.tech | Not searched. |
+| 16 | Acumen Medical Communications | no | 0 | 0 | https://www.acumenmedcom.com | Not searched. |
+| 17 | Ad Hoc LLC | no | 0 | 0 | https://adhoc.team/careers/ | Not searched. |
+| 18 | Adaptive Biotechnologies | no | 0 | 0 | https://www.adaptivebiotech.com/careers/ | Not searched. |
+| 19 | Adaptive Phage Therapeutics | no | 0 | 0 | https://www.adaptivetx.com/careers | Not searched. |
+| 20 | Adelphi Group | no | 0 | 0 | https://www.adelphigroup.com/join-us/ | Not searched. |
+| 21 | Advarra | yes | 2 | 3 | https://www.advarra.com | 2 new roles; 3 dupes from prior agent pass. |
+| 22 | AdventHealth TRI | yes | 2 | 0 | https://www.adventhealth.com/institutes/translational-research | Research data and biostat roles. |
+| 23 | Adventist Health | yes | 2 | 1 | https://www.adventisthealth.org | RN QA excluded. |
+| 24 | Advocate Health | yes | 3 | 0 | https://careers.advocatehealth.com/ | Clinical/population/registry analysts. |
+| 25 | Aetion | yes | 1 | 3 | https://www.aetion.com/careers/ | Contractor/exec/EU excluded. |
+| 26 | Aetna | yes | 4 | 1 | https://www.aetna.com | Payer analytics/quality/pop health. |
+| 27 | Africa Policy Research Institute | yes | 0 | 2 | https://afripoli.org | Not US remote. |
+| 28 | AHRQ | yes | 0 | 1 | https://www.ahrq.gov | On-site fellowship only. |
+| 29 | Agilent Technologies | yes | 3 | 1 | https://www.agilent.com | Data science/clinical research. |
+| 30 | Agilify Health | no | 0 | 0 | n/a | No postings found. |
+| 31 | Agilon Health | yes | 3 | 0 | https://www.agilonhealth.com/careers/ | Remote USA actuarial/AI roles. |
+| 32 | Agios Pharmaceuticals | yes | 0 | 0 | https://phe.tbe.taleo.net | HQ onsite commercial roles. |
+| 33 | AHIP | no | 0 | 0 | n/a | Not searched. |
+| 34 | AI Care | no | 0 | 0 | n/a | Not searched. |
+| 35 | AI Care Standard | no | 0 | 0 | n/a | Not searched. |
+| 36 | AiCare | no | 0 | 0 | n/a | Not searched. |
+| 37 | Aidoc | no | 0 | 0 | n/a | Not searched. |
+| 38 | Aim | no | 0 | 0 | n/a | Not searched. |
+| 39 | AIR Federal | yes | 2 | 0 | https://www.air.org/careers | Policy/survey research (via partner search). |
+| 40 | Akima | no | 0 | 0 | n/a | Not searched. |
