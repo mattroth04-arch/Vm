@@ -11,6 +11,8 @@
 |-------|-----------|-------------|------------|-------------------|-------|
 | 1 (1-10) | 10 | 2 | 0 | 0 | Centene portal + Pearl Health yields |
 | 2 (11-20) | 10 | 0 | 2 | 1 | Pew hybrid excluded; 2 DNS dead sites |
+| 3 (21-30) | 10 | 3 | 1 | 0 | PointClickCare 3 roles; 5 incomplete |
+| 4 (31-40) | 10 | 2 | 3 | 0 | PPD + Precision for Medicine HEOR |
 
 ## Employer Log
 
@@ -36,3 +38,23 @@
 | 18 | Pharmacom Media | dead | 0 | DNS unreachable |
 | 19 | PharPoint Research | searchable | 0 | Biostatistics onsite NC only |
 | 20 | Philadelphia Dept of Public Health | searchable | 0 | Municipal onsite typical |
+| 21 | PHMR | dead | 0 | DNS unreachable |
+| 22 | Phoenix Children's Hospital | searchable | 0 | 0 data analyst research results |
+| 23 | Physical HealthChoices | partial | 0 | PA.gov careers not located |
+| 24 | Pi Health | partial | 0 | Not completed |
+| 25 | PicnicHealth | searchable | 0 | No current openings |
+| 26 | Piedmont Community Health Plan | partial | 0 | Not completed |
+| 27 | Pinnacle Treatment Centers | partial | 0 | Navigation issues |
+| 28 | Plan International | partial | 0 | Not completed |
+| 29 | PointClickCare | searchable | 3 | 4 found; 1 TAM support excluded |
+| 30 | Policy Research Institute Japan | partial | 0 | Not completed |
+| 31 | Policy Research Institute of Bangladesh | searchable | 0 | Bangladesh-based no US remote |
+| 32 | Porsesh Policy Research Institute | dead | 0 | DNS unreachable |
+| 33 | Porter Novelli Health | dead | 0 | DNS unreachable |
+| 34 | Porterhouse Medical Ltd | partial | 0 | No accessible careers page |
+| 35 | PPD (Part of Thermo Fisher Scientific) | searchable | 1 | Lead Statistician HEOR remote US |
+| 36 | Precision AQ | searchable | 0 | Jobs on PMG portal |
+| 37 | Precision for Medicine HEOR | searchable | 1 | Senior Medical Research Scientist remote |
+| 38 | Precision Medicine Group | searchable | 0 | 160+ jobs; vague aggregate only |
+| 39 | Precision Value & Health | partial | 0 | No dedicated careers page |
+| 40 | Premier Healthcare | partial | 0 | Careers page inaccessible |
